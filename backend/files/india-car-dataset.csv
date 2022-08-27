@@ -1,0 +1,1897 @@
+,OEM,MODEL,BODY_TYPE,PRICE_IN_LAKHS,YEAR,MONTH,SALE,SALE_OUT_OF
+0,Datsun,Go,Hatchback,4.03,2020,1,88.0,1163.0
+1,Datsun,Go Plus,MUV,4.26,2020,1,55.0,1163.0
+2,Datsun,RediGo,Hatchback,3.98,2020,1,1020.0,1163.0
+3,Honda,Amaze,Sedan,6.39,2020,1,3160.0,5239.0
+4,Honda,City,Sedan,11.23,2020,1,1734.0,5239.0
+5,Honda,Civic,Sedan,17.95,2020,1,146.0,5239.0
+6,Honda,CRV,MUV,20.0,2020,1,37.0,5239.0
+7,Honda,Jazz,Hatchback,7.72,2020,1,46.0,5239.0
+8,Honda,WRV,SUV,8.83,2020,1,116.0,5239.0
+9,Hyundai,Creta,SUV,10.22,2020,1,6900.0,42002.0
+10,Hyundai,Elantra,Sedan,17.86,2020,1,63.0,42002.0
+11,Hyundai,Elite i20,Hatchback,5.57,2020,1,8137.0,42002.0
+12,Hyundai,Grand i10,Hatchback,5.0,2020,1,8774.0,42002.0
+13,Hyundai,Kona,Electric,23.0,2020,1,39.0,42002.0
+14,Hyundai,Santro,Hatchback,3.13,2020,1,3671.0,42002.0
+15,Hyundai,Tucson,SUV,23.0,2020,1,37.0,42002.0
+16,Hyundai,Venue,SUV,7.0,2020,1,6733.0,42002.0
+17,Hyundai,Verna,Sedan,8.0,2020,1,957.0,42002.0
+18,Hyundai,"Xcent, Aura",Sedan,6.0,2020,1,6691.0,42002.0
+19,Jeep,Compass,SUV,17.79,2020,1,701.0,701.0
+20,Jeep,Wrangler,SUV,56.33,2020,1,,701.0
+21,Kia,Carnival,Van,25.48,2020,1,450.0,15450.0
+22,Kia,Seltos,SUV,9.95,2020,1,15000.0,15450.0
+23,Mahindra,Alturas G4,SUV,28.85,2020,1,68.0,19407.0
+24,Mahindra,Bolero,SUV,8.99,2020,1,7233.0,19407.0
+25,Mahindra,KUV100,SUV,6.19,2020,1,59.0,19407.0
+26,Mahindra,Marazzo,SUV,12.79,2020,1,1267.0,19407.0
+27,Mahindra,Scorpio,SUV,13.18,2020,1,5316.0,19407.0
+28,Mahindra,Thar,SUV,13.17,2020,1,,19407.0
+29,Mahindra,TUV300,SUV,15.0,2020,1,649.0,19407.0
+30,Mahindra,"Verito, Vibe",Sedan,10.0,2020,1,,19407.0
+31,Mahindra,XUV300,SUV,8.16,2020,1,3360.0,19407.0
+32,Mahindra,XUV500,SUV,13.0,2020,1,1455.0,19407.0
+33,Maruti Suzuki,Alto,Hatchback,3.25,2020,1,18914.0,139843.0
+34,Maruti Suzuki,Baleno,Hatchback,6.03,2020,1,20485.0,139843.0
+35,Maruti Suzuki,Celerio,Hatchback,5.14,2020,1,6236.0,139843.0
+36,Maruti Suzuki,Ciaz,Sedan,8.67,2020,1,835.0,139843.0
+37,Maruti Suzuki,Dzire,Sedan,6.09,2020,1,22406.0,139843.0
+38,Maruti Suzuki,Eeco,Van,4.53,2020,1,12324.0,139843.0
+39,Maruti Suzuki,Ertiga,MUV,8.11,2020,1,4997.0,139843.0
+40,Maruti Suzuki,Gypsy,SUV,6.5,2020,1,,139843.0
+41,Maruti Suzuki,Ignis,Hatchback,5.08,2020,1,,139843.0
+42,Maruti Suzuki,S-Cross,SUV,8.6,2020,1,558.0,139843.0
+43,Maruti Suzuki,S-Presso,SUV,3.85,2020,1,6971.0,139843.0
+44,Maruti Suzuki,Swift,Hatchback,5.9,2020,1,19981.0,139843.0
+45,Maruti Suzuki,Vitara Brezza,SUV,7.68,2020,1,10134.0,139843.0
+46,Maruti Suzuki,WagonR,Hatchback,5.16,2020,1,15232.0,139843.0
+47,Maruti Suzuki,XL6,MUV,10.01,2020,1,770.0,139843.0
+48,MG,Hector,SUV,13.95,2020,1,3130.0,3130.0
+49,MG,ZS EV,SUV,21.49,2020,1,,3130.0
+50,Nissan,Kicks,SUV,9.5,2020,1,172.0,172.0
+51,Renault,Captur,SUV,9.5,2020,1,,7805.0
+52,Renault,Duster,SUV,9.85,2020,1,405.0,7805.0
+53,Renault,Kwid,Hatchback,4.24,2020,1,3281.0,7805.0
+54,Renault,Triber,MUV,5.67,2020,1,4119.0,7805.0
+55,Skoda,Kodiaq,SUV,34.99,2020,1,189.0,1347.0
+56,Skoda,Octavia,Sedan,26.29,2020,1,207.0,1347.0
+57,Skoda,Rapid,Sedan,11.99,2020,1,815.0,1347.0
+58,Skoda,Superb,Sedan,32.85,2020,1,136.0,1347.0
+59,Tata,Altroz,Hatchback,5.99,2020,1,4505.0,13856.0
+60,Tata,Harrier,SUV,14.49,2020,1,719.0,13856.0
+61,Tata,Hexa,MUV,13.69,2020,1,46.0,13856.0
+62,Tata,Nexon,SUV,7.39,2020,1,3382.0,13856.0
+63,Tata,Tiago,Hatchback,5.19,2020,1,4313.0,13856.0
+64,Tata,Tigor,Hatchback,5.79,2020,1,891.0,13856.0
+65,Toyota,Camry,Sedan,41.7,2020,1,85.0,5804.0
+66,Toyota,Fortuner,MUV,31.38,2020,1,228.0,5804.0
+67,Toyota,Glanza,Hatchback,7.69,2020,1,2191.0,5804.0
+68,Toyota,Innova,MUV,17.3,2020,1,2575.0,5804.0
+69,Toyota,Vellfire,Van,89.85,2020,1,,5804.0
+70,Toyota,Yaris,Sedan,9.29,2020,1,725.0,5804.0
+71,Volkswagen,Polo,Hatchback,6.49,2020,1,632.0,968.0
+72,Volkswagen,Tiguan,SUV,11.0,2020,1,86.0,968.0
+73,Volkswagen,T-Roc,SUV,21.35,2020,1,,968.0
+74,Volkswagen,Vento,Sedan,10.0,2020,1,250.0,968.0
+75,Datsun,Go,Hatchback,4.03,2020,2,98.0,671.0
+76,Datsun,Go Plus,MUV,4.26,2020,2,60.0,671.0
+77,Datsun,RediGo,Hatchback,3.98,2020,2,513.0,671.0
+78,Honda,Amaze,Sedan,6.39,2020,2,5814.0,7269.0
+79,Honda,City,Sedan,11.23,2020,2,1256.0,7269.0
+80,Honda,Civic,Sedan,17.95,2020,2,174.0,7269.0
+81,Honda,CRV,MUV,20.0,2020,2,25.0,7269.0
+82,Honda,Jazz,Hatchback,7.72,2020,2,,7269.0
+83,Honda,WRV,SUV,8.83,2020,2,,7269.0
+84,Hyundai,Creta,SUV,10.22,2020,2,700.0,40010.0
+85,Hyundai,Elantra,Sedan,17.86,2020,2,46.0,40010.0
+86,Hyundai,Elite i20,Hatchback,5.57,2020,2,8766.0,40010.0
+87,Hyundai,Grand i10,Hatchback,5.0,2020,2,10407.0,40010.0
+88,Hyundai,Kona,Electric,23.0,2020,2,32.0,40010.0
+89,Hyundai,Santro,Hatchback,3.13,2020,2,4200.0,40010.0
+90,Hyundai,Tucson,SUV,23.0,2020,2,,40010.0
+91,Hyundai,Venue,SUV,7.0,2020,2,10321.0,40010.0
+92,Hyundai,Verna,Sedan,8.0,2020,2,570.0,40010.0
+93,Hyundai,"Xcent, Aura",Sedan,6.0,2020,2,4968.0,40010.0
+94,Jeep,Compass,SUV,17.79,2020,2,666.0,666.0
+95,Jeep,Wrangler,SUV,56.33,2020,2,,666.0
+96,Kia,Carnival,Van,25.48,2020,2,1620.0,15644.0
+97,Kia,Seltos,SUV,9.95,2020,2,14024.0,15644.0
+98,Mahindra,Alturas G4,SUV,28.85,2020,2,38.0,10673.0
+99,Mahindra,Bolero,SUV,8.99,2020,2,4067.0,10673.0
+100,Mahindra,KUV100,SUV,6.19,2020,2,108.0,10673.0
+101,Mahindra,Marazzo,SUV,12.79,2020,2,1236.0,10673.0
+102,Mahindra,Scorpio,SUV,13.18,2020,2,1505.0,10673.0
+103,Mahindra,Thar,SUV,13.17,2020,2,,10673.0
+104,Mahindra,TUV300,SUV,15.0,2020,2,944.0,10673.0
+105,Mahindra,"Verito, Vibe",Sedan,10.0,2020,2,,10673.0
+106,Mahindra,XUV300,SUV,8.16,2020,2,2431.0,10673.0
+107,Mahindra,XUV500,SUV,13.0,2020,2,344.0,10673.0
+108,Maruti Suzuki,Alto,Hatchback,3.25,2020,2,17921.0,133632.0
+109,Maruti Suzuki,Baleno,Hatchback,6.03,2020,2,16585.0,133632.0
+110,Maruti Suzuki,Celerio,Hatchback,5.14,2020,2,6104.0,133632.0
+111,Maruti Suzuki,Ciaz,Sedan,8.67,2020,2,2544.0,133632.0
+112,Maruti Suzuki,Dzire,Sedan,6.09,2020,2,7296.0,133632.0
+113,Maruti Suzuki,Eeco,Van,4.53,2020,2,11227.0,133632.0
+114,Maruti Suzuki,Ertiga,MUV,8.11,2020,2,11782.0,133632.0
+115,Maruti Suzuki,Gypsy,SUV,6.5,2020,2,,133632.0
+116,Maruti Suzuki,Ignis,Hatchback,5.08,2020,2,2912.0,133632.0
+117,Maruti Suzuki,S-Cross,SUV,8.6,2020,2,,133632.0
+118,Maruti Suzuki,S-Presso,SUV,3.85,2020,2,9578.0,133632.0
+119,Maruti Suzuki,Swift,Hatchback,5.9,2020,2,18696.0,133632.0
+120,Maruti Suzuki,Vitara Brezza,SUV,7.68,2020,2,6866.0,133632.0
+121,Maruti Suzuki,WagonR,Hatchback,5.16,2020,2,18235.0,133632.0
+122,Maruti Suzuki,XL6,MUV,10.01,2020,2,3886.0,133632.0
+123,MG,Hector,SUV,13.95,2020,2,1218.0,1376.0
+124,MG,ZS EV,SUV,21.49,2020,2,158.0,1376.0
+125,Nissan,Kicks,SUV,9.5,2020,2,267.0,267.0
+126,Renault,Captur,SUV,9.5,2020,2,,8784.0
+127,Renault,Duster,SUV,9.85,2020,2,642.0,8784.0
+128,Renault,Kwid,Hatchback,4.24,2020,2,4187.0,8784.0
+129,Renault,Triber,MUV,5.67,2020,2,3955.0,8784.0
+130,Skoda,Kodiaq,SUV,34.99,2020,2,176.0,1259.0
+131,Skoda,Octavia,Sedan,26.29,2020,2,226.0,1259.0
+132,Skoda,Rapid,Sedan,11.99,2020,2,680.0,1259.0
+133,Skoda,Superb,Sedan,32.85,2020,2,177.0,1259.0
+134,Tata,Altroz,Hatchback,5.99,2020,2,2806.0,12196.0
+135,Tata,Harrier,SUV,14.49,2020,2,641.0,12196.0
+136,Tata,Hexa,MUV,13.69,2020,2,152.0,12196.0
+137,Tata,Nexon,SUV,7.39,2020,2,3894.0,12196.0
+138,Tata,Tiago,Hatchback,5.19,2020,2,3921.0,12196.0
+139,Tata,Tigor,Hatchback,5.79,2020,2,782.0,12196.0
+140,Toyota,Camry,Sedan,41.7,2020,2,89.0,10352.0
+141,Toyota,Fortuner,MUV,31.38,2020,2,1510.0,10352.0
+142,Toyota,Glanza,Hatchback,7.69,2020,2,2710.0,10352.0
+143,Toyota,Innova,MUV,17.3,2020,2,5459.0,10352.0
+144,Toyota,Vellfire,Van,89.85,2020,2,42.0,10352.0
+145,Toyota,Yaris,Sedan,9.29,2020,2,542.0,10352.0
+146,Volkswagen,Polo,Hatchback,6.49,2020,2,144.0,314.0
+147,Volkswagen,Tiguan,SUV,11.0,2020,2,27.0,314.0
+148,Volkswagen,T-Roc,SUV,21.35,2020,2,,314.0
+149,Volkswagen,Vento,Sedan,10.0,2020,2,143.0,314.0
+150,Datsun,Go,Hatchback,4.03,2020,3,2.0,153.0
+151,Datsun,Go Plus,MUV,4.26,2020,3,12.0,153.0
+152,Datsun,RediGo,Hatchback,3.98,2020,3,139.0,153.0
+153,Honda,Amaze,Sedan,6.39,2020,3,2744.0,3697.0
+154,Honda,City,Sedan,11.23,2020,3,786.0,3697.0
+155,Honda,Civic,Sedan,17.95,2020,3,67.0,3697.0
+156,Honda,CRV,MUV,20.0,2020,3,14.0,3697.0
+157,Honda,Jazz,Hatchback,7.72,2020,3,,3697.0
+158,Honda,WRV,SUV,8.83,2020,3,86.0,3697.0
+159,Hyundai,Creta,SUV,10.22,2020,3,6706.0,26300.0
+160,Hyundai,Elantra,Sedan,17.86,2020,3,28.0,26300.0
+161,Hyundai,Elite i20,Hatchback,5.57,2020,3,3455.0,26300.0
+162,Hyundai,Grand i10,Hatchback,5.0,2020,3,4293.0,26300.0
+163,Hyundai,Kona,Electric,23.0,2020,3,14.0,26300.0
+164,Hyundai,Santro,Hatchback,3.13,2020,3,2169.0,26300.0
+165,Hyundai,Tucson,SUV,23.0,2020,3,,26300.0
+166,Hyundai,Venue,SUV,7.0,2020,3,6127.0,26300.0
+167,Hyundai,Verna,Sedan,8.0,2020,3,893.0,26300.0
+168,Hyundai,"Xcent, Aura",Sedan,6.0,2020,3,2615.0,26300.0
+169,Jeep,Compass,SUV,17.79,2020,3,163.0,163.0
+170,Jeep,Wrangler,SUV,56.33,2020,3,,163.0
+171,Kia,Carnival,Van,25.48,2020,3,1117.0,8583.0
+172,Kia,Seltos,SUV,9.95,2020,3,7466.0,8583.0
+173,Mahindra,Alturas G4,SUV,28.85,2020,3,,3105.0
+174,Mahindra,Bolero,SUV,8.99,2020,3,2080.0,3105.0
+175,Mahindra,KUV100,SUV,6.19,2020,3,31.0,3105.0
+176,Mahindra,Marazzo,SUV,12.79,2020,3,23.0,3105.0
+177,Mahindra,Scorpio,SUV,13.18,2020,3,40.0,3105.0
+178,Mahindra,Thar,SUV,13.17,2020,3,,3105.0
+179,Mahindra,TUV300,SUV,15.0,2020,3,108.0,3105.0
+180,Mahindra,"Verito, Vibe",Sedan,10.0,2020,3,,3105.0
+181,Mahindra,XUV300,SUV,8.16,2020,3,814.0,3105.0
+182,Mahindra,XUV500,SUV,13.0,2020,3,9.0,3105.0
+183,Maruti Suzuki,Alto,Hatchback,3.25,2020,3,10829.0,76039.0
+184,Maruti Suzuki,Baleno,Hatchback,6.03,2020,3,11406.0,76039.0
+185,Maruti Suzuki,Celerio,Hatchback,5.14,2020,3,4010.0,76039.0
+186,Maruti Suzuki,Ciaz,Sedan,8.67,2020,3,1863.0,76039.0
+187,Maruti Suzuki,Dzire,Sedan,6.09,2020,3,5476.0,76039.0
+188,Maruti Suzuki,Eeco,Van,4.53,2020,3,5966.0,76039.0
+189,Maruti Suzuki,Ertiga,MUV,8.11,2020,3,3969.0,76039.0
+190,Maruti Suzuki,Gypsy,SUV,6.5,2020,3,,76039.0
+191,Maruti Suzuki,Ignis,Hatchback,5.08,2020,3,1901.0,76039.0
+192,Maruti Suzuki,S-Cross,SUV,8.6,2020,3,,76039.0
+193,Maruti Suzuki,S-Presso,SUV,3.85,2020,3,5159.0,76039.0
+194,Maruti Suzuki,Swift,Hatchback,5.9,2020,3,8575.0,76039.0
+195,Maruti Suzuki,Vitara Brezza,SUV,7.68,2020,3,5513.0,76039.0
+196,Maruti Suzuki,WagonR,Hatchback,5.16,2020,3,9151.0,76039.0
+197,Maruti Suzuki,XL6,MUV,10.01,2020,3,2221.0,76039.0
+198,MG,Hector,SUV,13.95,2020,3,1402.0,1518.0
+199,MG,ZS EV,SUV,21.49,2020,3,116.0,1518.0
+200,Nissan,Kicks,SUV,9.5,2020,3,519.0,519.0
+201,Renault,Captur,SUV,9.5,2020,3,,3269.0
+202,Renault,Duster,SUV,9.85,2020,3,150.0,3269.0
+203,Renault,Kwid,Hatchback,4.24,2020,3,1475.0,3269.0
+204,Renault,Triber,MUV,5.67,2020,3,1644.0,3269.0
+205,Skoda,Kodiaq,SUV,34.99,2020,3,59.0,451.0
+206,Skoda,Octavia,Sedan,26.29,2020,3,89.0,451.0
+207,Skoda,Rapid,Sedan,11.99,2020,3,180.0,451.0
+208,Skoda,Superb,Sedan,32.85,2020,3,123.0,451.0
+209,Tata,Altroz,Hatchback,5.99,2020,3,1147.0,5676.0
+210,Tata,Harrier,SUV,14.49,2020,3,632.0,5676.0
+211,Tata,Hexa,MUV,13.69,2020,3,,5676.0
+212,Tata,Nexon,SUV,7.39,2020,3,2646.0,5676.0
+213,Tata,Tiago,Hatchback,5.19,2020,3,1127.0,5676.0
+214,Tata,Tigor,Hatchback,5.79,2020,3,124.0,5676.0
+215,Toyota,Camry,Sedan,41.7,2020,3,60.0,7023.0
+216,Toyota,Fortuner,MUV,31.38,2020,3,1100.0,7023.0
+217,Toyota,Glanza,Hatchback,7.69,2020,3,1533.0,7023.0
+218,Toyota,Innova,MUV,17.3,2020,3,3810.0,7023.0
+219,Toyota,Vellfire,Van,89.85,2020,3,96.0,7023.0
+220,Toyota,Yaris,Sedan,9.29,2020,3,424.0,7023.0
+221,Volkswagen,Polo,Hatchback,6.49,2020,3,105.0,128.0
+222,Volkswagen,Tiguan,SUV,11.0,2020,3,4.0,128.0
+223,Volkswagen,T-Roc,SUV,21.35,2020,3,,128.0
+224,Volkswagen,Vento,Sedan,10.0,2020,3,19.0,128.0
+225,Datsun,Go,Hatchback,4.03,2020,4,,
+226,Datsun,Go Plus,MUV,4.26,2020,4,,
+227,Datsun,RediGo,Hatchback,3.98,2020,4,,
+228,Honda,Amaze,Sedan,6.39,2020,4,,
+229,Honda,City,Sedan,11.23,2020,4,,
+230,Honda,Civic,Sedan,17.95,2020,4,,
+231,Honda,CRV,MUV,20.0,2020,4,,
+232,Honda,Jazz,Hatchback,7.72,2020,4,,
+233,Honda,WRV,SUV,8.83,2020,4,,
+234,Hyundai,Creta,SUV,10.22,2020,4,,
+235,Hyundai,Elantra,Sedan,17.86,2020,4,,
+236,Hyundai,Elite i20,Hatchback,5.57,2020,4,,
+237,Hyundai,Grand i10,Hatchback,5.0,2020,4,,
+238,Hyundai,Kona,Electric,23.0,2020,4,,
+239,Hyundai,Santro,Hatchback,3.13,2020,4,,
+240,Hyundai,Tucson,SUV,23.0,2020,4,,
+241,Hyundai,Venue,SUV,7.0,2020,4,,
+242,Hyundai,Verna,Sedan,8.0,2020,4,,
+243,Hyundai,"Xcent, Aura",Sedan,6.0,2020,4,,
+244,Jeep,Compass,SUV,17.79,2020,4,,
+245,Jeep,Wrangler,SUV,56.33,2020,4,,
+246,Kia,Carnival,Van,25.48,2020,4,,
+247,Kia,Seltos,SUV,9.95,2020,4,,
+248,Mahindra,Alturas G4,SUV,28.85,2020,4,,
+249,Mahindra,Bolero,SUV,8.99,2020,4,,
+250,Mahindra,KUV100,SUV,6.19,2020,4,,
+251,Mahindra,Marazzo,SUV,12.79,2020,4,,
+252,Mahindra,Scorpio,SUV,13.18,2020,4,,
+253,Mahindra,Thar,SUV,13.17,2020,4,,
+254,Mahindra,TUV300,SUV,15.0,2020,4,,
+255,Mahindra,"Verito, Vibe",Sedan,10.0,2020,4,,
+256,Mahindra,XUV300,SUV,8.16,2020,4,,
+257,Mahindra,XUV500,SUV,13.0,2020,4,,
+258,Maruti Suzuki,Alto,Hatchback,3.25,2020,4,,
+259,Maruti Suzuki,Baleno,Hatchback,6.03,2020,4,,
+260,Maruti Suzuki,Celerio,Hatchback,5.14,2020,4,,
+261,Maruti Suzuki,Ciaz,Sedan,8.67,2020,4,,
+262,Maruti Suzuki,Dzire,Sedan,6.09,2020,4,,
+263,Maruti Suzuki,Eeco,Van,4.53,2020,4,,
+264,Maruti Suzuki,Ertiga,MUV,8.11,2020,4,,
+265,Maruti Suzuki,Gypsy,SUV,6.5,2020,4,,
+266,Maruti Suzuki,Ignis,Hatchback,5.08,2020,4,,
+267,Maruti Suzuki,S-Cross,SUV,8.6,2020,4,,
+268,Maruti Suzuki,S-Presso,SUV,3.85,2020,4,,
+269,Maruti Suzuki,Swift,Hatchback,5.9,2020,4,,
+270,Maruti Suzuki,Vitara Brezza,SUV,7.68,2020,4,,
+271,Maruti Suzuki,WagonR,Hatchback,5.16,2020,4,,
+272,Maruti Suzuki,XL6,MUV,10.01,2020,4,,
+273,MG,Hector,SUV,13.95,2020,4,,
+274,MG,ZS EV,SUV,21.49,2020,4,,
+275,Nissan,Kicks,SUV,9.5,2020,4,,
+276,Renault,Captur,SUV,9.5,2020,4,,
+277,Renault,Duster,SUV,9.85,2020,4,,
+278,Renault,Kwid,Hatchback,4.24,2020,4,,
+279,Renault,Triber,MUV,5.67,2020,4,,
+280,Skoda,Kodiaq,SUV,34.99,2020,4,,
+281,Skoda,Octavia,Sedan,26.29,2020,4,,
+282,Skoda,Rapid,Sedan,11.99,2020,4,,
+283,Skoda,Superb,Sedan,32.85,2020,4,,
+284,Tata,Altroz,Hatchback,5.99,2020,4,,
+285,Tata,Harrier,SUV,14.49,2020,4,,
+286,Tata,Hexa,MUV,13.69,2020,4,,
+287,Tata,Nexon,SUV,7.39,2020,4,,
+288,Tata,Tiago,Hatchback,5.19,2020,4,,
+289,Tata,Tigor,Hatchback,5.79,2020,4,,
+290,Toyota,Camry,Sedan,41.7,2020,4,,
+291,Toyota,Fortuner,MUV,31.38,2020,4,,
+292,Toyota,Glanza,Hatchback,7.69,2020,4,,
+293,Toyota,Innova,MUV,17.3,2020,4,,
+294,Toyota,Vellfire,Van,89.85,2020,4,,
+295,Toyota,Yaris,Sedan,9.29,2020,4,,
+296,Volkswagen,Polo,Hatchback,6.49,2020,4,,
+297,Volkswagen,Tiguan,SUV,11.0,2020,4,,
+298,Volkswagen,T-Roc,SUV,21.35,2020,4,,
+299,Volkswagen,Vento,Sedan,10.0,2020,4,,
+300,Datsun,Go,Hatchback,4.03,2020,5,78.0,304.0
+301,Datsun,Go Plus,MUV,4.26,2020,5,62.0,304.0
+302,Datsun,RediGo,Hatchback,3.98,2020,5,164.0,304.0
+303,Honda,Amaze,Sedan,6.39,2020,5,140.0,375.0
+304,Honda,City,Sedan,11.23,2020,5,118.0,375.0
+305,Honda,Civic,Sedan,17.95,2020,5,1.0,375.0
+306,Honda,CRV,MUV,20.0,2020,5,2.0,375.0
+307,Honda,Jazz,Hatchback,7.72,2020,5,,375.0
+308,Honda,WRV,SUV,8.83,2020,5,114.0,375.0
+309,Hyundai,Creta,SUV,10.22,2020,5,3212.0,6883.0
+310,Hyundai,Elantra,Sedan,17.86,2020,5,6.0,6883.0
+311,Hyundai,Elite i20,Hatchback,5.57,2020,5,878.0,6883.0
+312,Hyundai,Grand i10,Hatchback,5.0,2020,5,718.0,6883.0
+313,Hyundai,Kona,Electric,23.0,2020,5,4.0,6883.0
+314,Hyundai,Santro,Hatchback,3.13,2020,5,157.0,6883.0
+315,Hyundai,Tucson,SUV,23.0,2020,5,,6883.0
+316,Hyundai,Venue,SUV,7.0,2020,5,1242.0,6883.0
+317,Hyundai,Verna,Sedan,8.0,2020,5,317.0,6883.0
+318,Hyundai,"Xcent, Aura",Sedan,6.0,2020,5,349.0,6883.0
+319,Jeep,Compass,SUV,17.79,2020,5,93.0,93.0
+320,Jeep,Wrangler,SUV,56.33,2020,5,,93.0
+321,Kia,Carnival,Van,25.48,2020,5,50.0,1661.0
+322,Kia,Seltos,SUV,9.95,2020,5,1611.0,1661.0
+323,Mahindra,Alturas G4,SUV,28.85,2020,5,,3745.0
+324,Mahindra,Bolero,SUV,8.99,2020,5,1715.0,3745.0
+325,Mahindra,KUV100,SUV,6.19,2020,5,24.0,3745.0
+326,Mahindra,Marazzo,SUV,12.79,2020,5,,3745.0
+327,Mahindra,Scorpio,SUV,13.18,2020,5,713.0,3745.0
+328,Mahindra,Thar,SUV,13.17,2020,5,,3745.0
+329,Mahindra,TUV300,SUV,15.0,2020,5,,3745.0
+330,Mahindra,"Verito, Vibe",Sedan,10.0,2020,5,,3745.0
+331,Mahindra,XUV300,SUV,8.16,2020,5,1257.0,3745.0
+332,Mahindra,XUV500,SUV,13.0,2020,5,36.0,3745.0
+333,Maruti Suzuki,Alto,Hatchback,3.25,2020,5,1506.0,13702.0
+334,Maruti Suzuki,Baleno,Hatchback,6.03,2020,5,1587.0,13702.0
+335,Maruti Suzuki,Celerio,Hatchback,5.14,2020,5,468.0,13702.0
+336,Maruti Suzuki,Ciaz,Sedan,8.67,2020,5,192.0,13702.0
+337,Maruti Suzuki,Dzire,Sedan,6.09,2020,5,2215.0,13702.0
+338,Maruti Suzuki,Eeco,Van,4.53,2020,5,1617.0,13702.0
+339,Maruti Suzuki,Ertiga,MUV,8.11,2020,5,2353.0,13702.0
+340,Maruti Suzuki,Gypsy,SUV,6.5,2020,5,,13702.0
+341,Maruti Suzuki,Ignis,Hatchback,5.08,2020,5,196.0,13702.0
+342,Maruti Suzuki,S-Cross,SUV,8.6,2020,5,,13702.0
+343,Maruti Suzuki,S-Presso,SUV,3.85,2020,5,489.0,13702.0
+344,Maruti Suzuki,Swift,Hatchback,5.9,2020,5,597.0,13702.0
+345,Maruti Suzuki,Vitara Brezza,SUV,7.68,2020,5,572.0,13702.0
+346,Maruti Suzuki,WagonR,Hatchback,5.16,2020,5,1199.0,13702.0
+347,Maruti Suzuki,XL6,MUV,10.01,2020,5,711.0,13702.0
+348,MG,Hector,SUV,13.95,2020,5,672.0,710.0
+349,MG,ZS EV,SUV,21.49,2020,5,38.0,710.0
+350,Nissan,Kicks,SUV,9.5,2020,5,74.0,74.0
+351,Renault,Captur,SUV,9.5,2020,5,,1753.0
+352,Renault,Duster,SUV,9.85,2020,5,138.0,1753.0
+353,Renault,Kwid,Hatchback,4.24,2020,5,684.0,1753.0
+354,Renault,Triber,MUV,5.67,2020,5,931.0,1753.0
+355,Skoda,Kodiaq,SUV,34.99,2020,5,112.0,508.0
+356,Skoda,Octavia,Sedan,26.29,2020,5,32.0,508.0
+357,Skoda,Rapid,Sedan,11.99,2020,5,291.0,508.0
+358,Skoda,Superb,Sedan,32.85,2020,5,73.0,508.0
+359,Tata,Altroz,Hatchback,5.99,2020,5,1379.0,3152.0
+360,Tata,Harrier,SUV,14.49,2020,5,161.0,3152.0
+361,Tata,Hexa,MUV,13.69,2020,5,,3152.0
+362,Tata,Nexon,SUV,7.39,2020,5,623.0,3152.0
+363,Tata,Tiago,Hatchback,5.19,2020,5,857.0,3152.0
+364,Tata,Tigor,Hatchback,5.79,2020,5,132.0,3152.0
+365,Toyota,Camry,Sedan,41.7,2020,5,13.0,1641.0
+366,Toyota,Fortuner,MUV,31.38,2020,5,267.0,1641.0
+367,Toyota,Glanza,Hatchback,7.69,2020,5,507.0,1641.0
+368,Toyota,Innova,MUV,17.3,2020,5,759.0,1641.0
+369,Toyota,Vellfire,Van,89.85,2020,5,32.0,1641.0
+370,Toyota,Yaris,Sedan,9.29,2020,5,63.0,1641.0
+371,Volkswagen,Polo,Hatchback,6.49,2020,5,1126.0,1404.0
+372,Volkswagen,Tiguan,SUV,11.0,2020,5,30.0,1404.0
+373,Volkswagen,T-Roc,SUV,21.35,2020,5,70.0,1404.0
+374,Volkswagen,Vento,Sedan,10.0,2020,5,178.0,1404.0
+375,Datsun,Go,Hatchback,4.03,2020,6,51.0,506.0
+376,Datsun,Go Plus,MUV,4.26,2020,6,51.0,506.0
+377,Datsun,RediGo,Hatchback,3.98,2020,6,404.0,506.0
+378,Honda,Amaze,Sedan,6.39,2020,6,139.0,1398.0
+379,Honda,City,Sedan,11.23,2020,6,585.0,1398.0
+380,Honda,Civic,Sedan,17.95,2020,6,14.0,1398.0
+381,Honda,CRV,MUV,20.0,2020,6,2.0,1398.0
+382,Honda,Jazz,Hatchback,7.72,2020,6,,1398.0
+383,Honda,WRV,SUV,8.83,2020,6,658.0,1398.0
+384,Hyundai,Creta,SUV,10.22,2020,6,7207.0,21320.0
+385,Hyundai,Elantra,Sedan,17.86,2020,6,15.0,21320.0
+386,Hyundai,Elite i20,Hatchback,5.57,2020,6,2718.0,21320.0
+387,Hyundai,Grand i10,Hatchback,5.0,2020,6,3593.0,21320.0
+388,Hyundai,Kona,Electric,23.0,2020,6,16.0,21320.0
+389,Hyundai,Santro,Hatchback,3.13,2020,6,1513.0,21320.0
+390,Hyundai,Tucson,SUV,23.0,2020,6,30.0,21320.0
+391,Hyundai,Venue,SUV,7.0,2020,6,4129.0,21320.0
+392,Hyundai,Verna,Sedan,8.0,2020,6,1083.0,21320.0
+393,Hyundai,"Xcent, Aura",Sedan,6.0,2020,6,1016.0,21320.0
+394,Jeep,Compass,SUV,17.79,2020,6,246.0,256.0
+395,Jeep,Wrangler,SUV,56.33,2020,6,10.0,256.0
+396,Kia,Carnival,Van,25.48,2020,6,161.0,7275.0
+397,Kia,Seltos,SUV,9.95,2020,6,7114.0,7275.0
+398,Mahindra,Alturas G4,SUV,28.85,2020,6,,7959.0
+399,Mahindra,Bolero,SUV,8.99,2020,6,3292.0,7959.0
+400,Mahindra,KUV100,SUV,6.19,2020,6,49.0,7959.0
+401,Mahindra,Marazzo,SUV,12.79,2020,6,,7959.0
+402,Mahindra,Scorpio,SUV,13.18,2020,6,2574.0,7959.0
+403,Mahindra,Thar,SUV,13.17,2020,6,,7959.0
+404,Mahindra,TUV300,SUV,15.0,2020,6,,7959.0
+405,Mahindra,"Verito, Vibe",Sedan,10.0,2020,6,1.0,7959.0
+406,Mahindra,XUV300,SUV,8.16,2020,6,1812.0,7959.0
+407,Mahindra,XUV500,SUV,13.0,2020,6,231.0,7959.0
+408,Maruti Suzuki,Alto,Hatchback,3.25,2020,6,7298.0,51274.0
+409,Maruti Suzuki,Baleno,Hatchback,6.03,2020,6,4300.0,51274.0
+410,Maruti Suzuki,Celerio,Hatchback,5.14,2020,6,4145.0,51274.0
+411,Maruti Suzuki,Ciaz,Sedan,8.67,2020,6,553.0,51274.0
+412,Maruti Suzuki,Dzire,Sedan,6.09,2020,6,5834.0,51274.0
+413,Maruti Suzuki,Eeco,Van,4.53,2020,6,3803.0,51274.0
+414,Maruti Suzuki,Ertiga,MUV,8.11,2020,6,3306.0,51274.0
+415,Maruti Suzuki,Gypsy,SUV,6.5,2020,6,718.0,51274.0
+416,Maruti Suzuki,Ignis,Hatchback,5.08,2020,6,1432.0,51274.0
+417,Maruti Suzuki,S-Cross,SUV,8.6,2020,6,,51274.0
+418,Maruti Suzuki,S-Presso,SUV,3.85,2020,6,3160.0,51274.0
+419,Maruti Suzuki,Swift,Hatchback,5.9,2020,6,4013.0,51274.0
+420,Maruti Suzuki,Vitara Brezza,SUV,7.68,2020,6,4542.0,51274.0
+421,Maruti Suzuki,WagonR,Hatchback,5.16,2020,6,6972.0,51274.0
+422,Maruti Suzuki,XL6,MUV,10.01,2020,6,1198.0,51274.0
+423,MG,Hector,SUV,13.95,2020,6,1867.0,2012.0
+424,MG,ZS EV,SUV,21.49,2020,6,145.0,2012.0
+425,Nissan,Kicks,SUV,9.5,2020,6,70.0,70.0
+426,Renault,Captur,SUV,9.5,2020,6,,4634.0
+427,Renault,Duster,SUV,9.85,2020,6,129.0,4634.0
+428,Renault,Kwid,Hatchback,4.24,2020,6,2441.0,4634.0
+429,Renault,Triber,MUV,5.67,2020,6,2064.0,4634.0
+430,Skoda,Kodiaq,SUV,34.99,2020,6,151.0,790.0
+431,Skoda,Octavia,Sedan,26.29,2020,6,21.0,790.0
+432,Skoda,Rapid,Sedan,11.99,2020,6,577.0,790.0
+433,Skoda,Superb,Sedan,32.85,2020,6,41.0,790.0
+434,Tata,Altroz,Hatchback,5.99,2020,6,3104.0,11419.0
+435,Tata,Harrier,SUV,14.49,2020,6,653.0,11419.0
+436,Tata,Hexa,MUV,13.69,2020,6,,11419.0
+437,Tata,Nexon,SUV,7.39,2020,6,3040.0,11419.0
+438,Tata,Tiago,Hatchback,5.19,2020,6,4069.0,11419.0
+439,Tata,Tigor,Hatchback,5.79,2020,6,553.0,11419.0
+440,Toyota,Camry,Sedan,41.7,2020,6,26.0,3866.0
+441,Toyota,Fortuner,MUV,31.38,2020,6,713.0,3866.0
+442,Toyota,Glanza,Hatchback,7.69,2020,6,914.0,3866.0
+443,Toyota,Innova,MUV,17.3,2020,6,2085.0,3866.0
+444,Toyota,Vellfire,Van,89.85,2020,6,49.0,3866.0
+445,Toyota,Yaris,Sedan,9.29,2020,6,79.0,3866.0
+446,Volkswagen,Polo,Hatchback,6.49,2020,6,1228.0,1510.0
+447,Volkswagen,Tiguan,SUV,11.0,2020,6,,1510.0
+448,Volkswagen,T-Roc,SUV,21.35,2020,6,,1510.0
+449,Volkswagen,Vento,Sedan,10.0,2020,6,282.0,1510.0
+450,Datsun,Go,Hatchback,4.03,2020,7,37.0,694.0
+451,Datsun,Go Plus,MUV,4.26,2020,7,57.0,694.0
+452,Datsun,RediGo,Hatchback,3.98,2020,7,600.0,694.0
+453,Honda,Amaze,Sedan,6.39,2020,7,2587.0,5383.0
+454,Honda,City,Sedan,11.23,2020,7,1975.0,5383.0
+455,Honda,Civic,Sedan,17.95,2020,7,77.0,5383.0
+456,Honda,CRV,MUV,20.0,2020,7,11.0,5383.0
+457,Honda,Jazz,Hatchback,7.72,2020,7,,5383.0
+458,Honda,WRV,SUV,8.83,2020,7,733.0,5383.0
+459,Hyundai,Creta,SUV,10.22,2020,7,11549.0,38200.0
+460,Hyundai,Elantra,Sedan,17.86,2020,7,20.0,38200.0
+461,Hyundai,Elite i20,Hatchback,5.57,2020,7,6344.0,38200.0
+462,Hyundai,Grand i10,Hatchback,5.0,2020,7,8368.0,38200.0
+463,Hyundai,Kona,Electric,23.0,2020,7,26.0,38200.0
+464,Hyundai,Santro,Hatchback,3.13,2020,7,1351.0,38200.0
+465,Hyundai,Tucson,SUV,23.0,2020,7,63.0,38200.0
+466,Hyundai,Venue,SUV,7.0,2020,7,6734.0,38200.0
+467,Hyundai,Verna,Sedan,8.0,2020,7,1906.0,38200.0
+468,Hyundai,"Xcent, Aura",Sedan,6.0,2020,7,1839.0,38200.0
+469,Jeep,Compass,SUV,17.79,2020,7,400.0,400.0
+470,Jeep,Wrangler,SUV,56.33,2020,7,,400.0
+471,Kia,Carnival,Van,25.48,2020,7,232.0,8502.0
+472,Kia,Seltos,SUV,9.95,2020,7,8270.0,8502.0
+473,Kia,Sonet,SUV,9.95,2020,7,,8502.0
+474,Mahindra,Alturas G4,SUV,28.85,2020,7,,10904.0
+475,Mahindra,Bolero,SUV,8.99,2020,7,4360.0,10904.0
+476,Mahindra,KUV100,SUV,6.19,2020,7,51.0,10904.0
+477,Mahindra,Marazzo,SUV,12.79,2020,7,20.0,10904.0
+478,Mahindra,Scorpio,SUV,13.18,2020,7,3135.0,10904.0
+479,Mahindra,Thar,SUV,13.17,2020,7,,10904.0
+480,Mahindra,TUV300,SUV,15.0,2020,7,,10904.0
+481,Mahindra,"Verito, Vibe",Sedan,10.0,2020,7,6.0,10904.0
+482,Mahindra,XUV300,SUV,8.16,2020,7,2519.0,10904.0
+483,Mahindra,XUV500,SUV,13.0,2020,7,813.0,10904.0
+484,Maruti Suzuki,Alto,Hatchback,3.25,2020,7,13654.0,97768.0
+485,Maruti Suzuki,Baleno,Hatchback,6.03,2020,7,11575.0,97768.0
+486,Maruti Suzuki,Celerio,Hatchback,5.14,2020,7,4799.0,97768.0
+487,Maruti Suzuki,Ciaz,Sedan,8.67,2020,7,1303.0,97768.0
+488,Maruti Suzuki,Dzire,Sedan,6.09,2020,7,9046.0,97768.0
+489,Maruti Suzuki,Eeco,Van,4.53,2020,7,8501.0,97768.0
+490,Maruti Suzuki,Ertiga,MUV,8.11,2020,7,8504.0,97768.0
+491,Maruti Suzuki,Gypsy,SUV,6.5,2020,7,541.0,97768.0
+492,Maruti Suzuki,Ignis,Hatchback,5.08,2020,7,2421.0,97768.0
+493,Maruti Suzuki,S-Cross,SUV,8.6,2020,7,451.0,97768.0
+494,Maruti Suzuki,S-Presso,SUV,3.85,2020,7,3604.0,97768.0
+495,Maruti Suzuki,Swift,Hatchback,5.9,2020,7,10173.0,97768.0
+496,Maruti Suzuki,Vitara Brezza,SUV,7.68,2020,7,7807.0,97768.0
+497,Maruti Suzuki,WagonR,Hatchback,5.16,2020,7,13515.0,97768.0
+498,Maruti Suzuki,XL6,MUV,10.01,2020,7,1874.0,97768.0
+499,MG,Gloster,SUV,30.99,2020,7,,2105.0
+500,MG,Hector,SUV,13.95,2020,7,2023.0,2105.0
+501,MG,ZS EV,SUV,21.49,2020,7,82.0,2105.0
+502,Nissan,Kicks,SUV,9.5,2020,7,88.0,88.0
+503,Nissan,Magnite,SUV,5.77,2020,7,,88.0
+504,Renault,Captur,SUV,9.5,2020,7,,6422.0
+505,Renault,Duster,SUV,9.85,2020,7,339.0,6422.0
+506,Renault,Kwid,Hatchback,4.24,2020,7,3007.0,6422.0
+507,Renault,Triber,MUV,5.67,2020,7,3076.0,6422.0
+508,Skoda,Karoq,SUV,24.99,2020,7,130.0,922.0
+509,Skoda,Kodiaq,SUV,34.99,2020,7,,922.0
+510,Skoda,Octavia,Sedan,26.29,2020,7,8.0,922.0
+511,Skoda,Rapid,Sedan,11.99,2020,7,738.0,922.0
+512,Skoda,Superb,Sedan,32.85,2020,7,46.0,922.0
+513,Tata,Altroz,Hatchback,5.99,2020,7,3636.0,15012.0
+514,Tata,Harrier,SUV,14.49,2020,7,985.0,15012.0
+515,Tata,Hexa,MUV,13.69,2020,7,,15012.0
+516,Tata,Nexon,SUV,7.39,2020,7,4327.0,15012.0
+517,Tata,Tiago,Hatchback,5.19,2020,7,5337.0,15012.0
+518,Tata,Tigor,Hatchback,5.79,2020,7,727.0,15012.0
+519,Toyota,Camry,Sedan,41.7,2020,7,9.0,5386.0
+520,Toyota,Fortuner,MUV,31.38,2020,7,896.0,5386.0
+521,Toyota,Glanza,Hatchback,7.69,2020,7,1323.0,5386.0
+522,Toyota,Innova,MUV,17.3,2020,7,2927.0,5386.0
+523,Toyota,Urban Cruiser,SUV,8.87,2020,7,,5386.0
+524,Toyota,Vellfire,Van,89.85,2020,7,16.0,5386.0
+525,Toyota,Yaris,Sedan,9.29,2020,7,215.0,5386.0
+526,Volkswagen,Polo,Hatchback,6.49,2020,7,1146.0,1887.0
+527,Volkswagen,Tiguan,SUV,11.0,2020,7,183.0,1887.0
+528,Volkswagen,T-Roc,SUV,21.35,2020,7,348.0,1887.0
+529,Volkswagen,Vento,Sedan,10.0,2020,7,210.0,1887.0
+530,Datsun,Go,Hatchback,4.03,2020,8,52.0,618.0
+531,Datsun,Go Plus,MUV,4.26,2020,8,65.0,618.0
+532,Datsun,RediGo,Hatchback,3.98,2020,8,501.0,618.0
+533,Honda,Amaze,Sedan,6.39,2020,8,3684.0,7509.0
+534,Honda,City,Sedan,11.23,2020,8,2299.0,7509.0
+535,Honda,Civic,Sedan,17.95,2020,8,204.0,7509.0
+536,Honda,CRV,MUV,20.0,2020,8,10.0,7509.0
+537,Honda,Jazz,Hatchback,7.72,2020,8,583.0,7509.0
+538,Honda,WRV,SUV,8.83,2020,8,729.0,7509.0
+539,Hyundai,Creta,SUV,10.22,2020,8,11758.0,45809.0
+540,Hyundai,Elantra,Sedan,17.86,2020,8,26.0,45809.0
+541,Hyundai,Elite i20,Hatchback,5.57,2020,8,7765.0,45809.0
+542,Hyundai,Grand i10,Hatchback,5.0,2020,8,10190.0,45809.0
+543,Hyundai,Kona,Electric,23.0,2020,8,26.0,45809.0
+544,Hyundai,Santro,Hatchback,3.13,2020,8,2395.0,45809.0
+545,Hyundai,Tucson,SUV,23.0,2020,8,139.0,45809.0
+546,Hyundai,Venue,SUV,7.0,2020,8,8267.0,45809.0
+547,Hyundai,Verna,Sedan,8.0,2020,8,2015.0,45809.0
+548,Hyundai,"Xcent, Aura",Sedan,6.0,2020,8,3228.0,45809.0
+549,Jeep,Compass,SUV,17.79,2020,8,468.0,468.0
+550,Jeep,Wrangler,SUV,56.33,2020,8,,468.0
+551,Kia,Carnival,Van,25.48,2020,8,198.0,10853.0
+552,Kia,Seltos,SUV,9.95,2020,8,10655.0,10853.0
+553,Kia,Sonet,SUV,9.95,2020,8,,10853.0
+554,Mahindra,Alturas G4,SUV,28.85,2020,8,1.0,13407.0
+555,Mahindra,Bolero,SUV,8.99,2020,8,5487.0,13407.0
+556,Mahindra,KUV100,SUV,6.19,2020,8,48.0,13407.0
+557,Mahindra,Marazzo,SUV,12.79,2020,8,635.0,13407.0
+558,Mahindra,Scorpio,SUV,13.18,2020,8,3327.0,13407.0
+559,Mahindra,Thar,SUV,13.17,2020,8,,13407.0
+560,Mahindra,TUV300,SUV,15.0,2020,8,,13407.0
+561,Mahindra,"Verito, Vibe",Sedan,10.0,2020,8,,13407.0
+562,Mahindra,XUV300,SUV,8.16,2020,8,2990.0,13407.0
+563,Mahindra,XUV500,SUV,13.0,2020,8,919.0,13407.0
+564,Maruti Suzuki,Alto,Hatchback,3.25,2020,8,14397.0,113033.0
+565,Maruti Suzuki,Baleno,Hatchback,6.03,2020,8,10742.0,113033.0
+566,Maruti Suzuki,Celerio,Hatchback,5.14,2020,8,5684.0,113033.0
+567,Maruti Suzuki,Ciaz,Sedan,8.67,2020,8,1223.0,113033.0
+568,Maruti Suzuki,Dzire,Sedan,6.09,2020,8,13629.0,113033.0
+569,Maruti Suzuki,Eeco,Van,4.53,2020,8,9115.0,113033.0
+570,Maruti Suzuki,Ertiga,MUV,8.11,2020,8,9302.0,113033.0
+571,Maruti Suzuki,Gypsy,SUV,6.5,2020,8,452.0,113033.0
+572,Maruti Suzuki,Ignis,Hatchback,5.08,2020,8,3262.0,113033.0
+573,Maruti Suzuki,S-Cross,SUV,8.6,2020,8,2527.0,113033.0
+574,Maruti Suzuki,S-Presso,SUV,3.85,2020,8,5312.0,113033.0
+575,Maruti Suzuki,Swift,Hatchback,5.9,2020,8,14869.0,113033.0
+576,Maruti Suzuki,Vitara Brezza,SUV,7.68,2020,8,6903.0,113033.0
+577,Maruti Suzuki,WagonR,Hatchback,5.16,2020,8,13770.0,113033.0
+578,Maruti Suzuki,XL6,MUV,10.01,2020,8,1846.0,113033.0
+579,MG,Gloster,SUV,30.99,2020,8,,2851.0
+580,MG,Hector,SUV,13.95,2020,8,2732.0,2851.0
+581,MG,ZS EV,SUV,21.49,2020,8,119.0,2851.0
+582,Nissan,Kicks,SUV,9.5,2020,8,192.0,192.0
+583,Nissan,Magnite,SUV,5.77,2020,8,,192.0
+584,Renault,Captur,SUV,9.5,2020,8,,8060.0
+585,Renault,Duster,SUV,9.85,2020,8,477.0,8060.0
+586,Renault,Kwid,Hatchback,4.24,2020,8,3677.0,8060.0
+587,Renault,Triber,MUV,5.67,2020,8,3906.0,8060.0
+588,Skoda,Karoq,SUV,24.99,2020,8,175.0,1003.0
+589,Skoda,Kodiaq,SUV,34.99,2020,8,,1003.0
+590,Skoda,Octavia,Sedan,26.29,2020,8,9.0,1003.0
+591,Skoda,Rapid,Sedan,11.99,2020,8,697.0,1003.0
+592,Skoda,Superb,Sedan,32.85,2020,8,122.0,1003.0
+593,Tata,Altroz,Hatchback,5.99,2020,8,4951.0,18583.0
+594,Tata,Harrier,SUV,14.49,2020,8,1694.0,18583.0
+595,Tata,Hexa,MUV,13.69,2020,8,,18583.0
+596,Tata,Nexon,SUV,7.39,2020,8,5179.0,18583.0
+597,Tata,Tiago,Hatchback,5.19,2020,8,5743.0,18583.0
+598,Tata,Tigor,Hatchback,5.79,2020,8,1016.0,18583.0
+599,Toyota,Camry,Sedan,41.7,2020,8,7.0,5555.0
+600,Toyota,Fortuner,MUV,31.38,2020,8,733.0,5555.0
+601,Toyota,Glanza,Hatchback,7.69,2020,8,1418.0,5555.0
+602,Toyota,Innova,MUV,17.3,2020,8,2943.0,5555.0
+603,Toyota,Urban Cruiser,SUV,8.87,2020,8,,5555.0
+604,Toyota,Vellfire,Van,89.85,2020,8,16.0,5555.0
+605,Toyota,Yaris,Sedan,9.29,2020,8,438.0,5555.0
+606,Volkswagen,Polo,Hatchback,6.49,2020,8,1008.0,1470.0
+607,Volkswagen,Tiguan,SUV,11.0,2020,8,63.0,1470.0
+608,Volkswagen,T-Roc,SUV,21.35,2020,8,227.0,1470.0
+609,Volkswagen,Vento,Sedan,10.0,2020,8,172.0,1470.0
+610,Datsun,Go,Hatchback,4.03,2020,9,55.0,722.0
+611,Datsun,Go Plus,MUV,4.26,2020,9,55.0,722.0
+612,Datsun,RediGo,Hatchback,3.98,2020,9,612.0,722.0
+613,Honda,Amaze,Sedan,6.39,2020,9,5416.0,10199.0
+614,Honda,City,Sedan,11.23,2020,9,2709.0,10199.0
+615,Honda,Civic,Sedan,17.95,2020,9,181.0,10199.0
+616,Honda,CRV,MUV,20.0,2020,9,21.0,10199.0
+617,Honda,Jazz,Hatchback,7.72,2020,9,748.0,10199.0
+618,Honda,WRV,SUV,8.83,2020,9,1124.0,10199.0
+619,Hyundai,Creta,SUV,10.22,2020,9,12325.0,50313.0
+620,Hyundai,Elantra,Sedan,17.86,2020,9,24.0,50313.0
+621,Hyundai,Elite i20,Hatchback,5.57,2020,9,9852.0,50313.0
+622,Hyundai,Grand i10,Hatchback,5.0,2020,9,10385.0,50313.0
+623,Hyundai,Kona,Electric,23.0,2020,9,29.0,50313.0
+624,Hyundai,Santro,Hatchback,3.13,2020,9,3034.0,50313.0
+625,Hyundai,Tucson,SUV,23.0,2020,9,85.0,50313.0
+626,Hyundai,Venue,SUV,7.0,2020,9,8469.0,50313.0
+627,Hyundai,Verna,Sedan,8.0,2020,9,2228.0,50313.0
+628,Hyundai,"Xcent, Aura",Sedan,6.0,2020,9,3882.0,50313.0
+629,Jeep,Compass,SUV,17.79,2020,9,554.0,554.0
+630,Jeep,Wrangler,SUV,56.33,2020,9,,554.0
+631,Kia,Carnival,Van,25.48,2020,9,331.0,18676.0
+632,Kia,Seltos,SUV,9.95,2020,9,9079.0,18676.0
+633,Kia,Sonet,SUV,9.95,2020,9,9266.0,18676.0
+634,Mahindra,Alturas G4,SUV,28.85,2020,9,73.0,14664.0
+635,Mahindra,Bolero,SUV,8.99,2020,9,5797.0,14664.0
+636,Mahindra,KUV100,SUV,6.19,2020,9,35.0,14664.0
+637,Mahindra,Marazzo,SUV,12.79,2020,9,936.0,14664.0
+638,Mahindra,Scorpio,SUV,13.18,2020,9,3527.0,14664.0
+639,Mahindra,Thar,SUV,13.17,2020,9,,14664.0
+640,Mahindra,TUV300,SUV,15.0,2020,9,,14664.0
+641,Mahindra,"Verito, Vibe",Sedan,10.0,2020,9,1.0,14664.0
+642,Mahindra,XUV300,SUV,8.16,2020,9,3700.0,14664.0
+643,Mahindra,XUV500,SUV,13.0,2020,9,595.0,14664.0
+644,Maruti Suzuki,Alto,Hatchback,3.25,2020,9,18246.0,147912.0
+645,Maruti Suzuki,Baleno,Hatchback,6.03,2020,9,19433.0,147912.0
+646,Maruti Suzuki,Celerio,Hatchback,5.14,2020,9,7250.0,147912.0
+647,Maruti Suzuki,Ciaz,Sedan,8.67,2020,9,1534.0,147912.0
+648,Maruti Suzuki,Dzire,Sedan,6.09,2020,9,13988.0,147912.0
+649,Maruti Suzuki,Eeco,Van,4.53,2020,9,11220.0,147912.0
+650,Maruti Suzuki,Ertiga,MUV,8.11,2020,9,9982.0,147912.0
+651,Maruti Suzuki,Gypsy,SUV,6.5,2020,9,379.0,147912.0
+652,Maruti Suzuki,Ignis,Hatchback,5.08,2020,9,3318.0,147912.0
+653,Maruti Suzuki,S-Cross,SUV,8.6,2020,9,2098.0,147912.0
+654,Maruti Suzuki,S-Presso,SUV,3.85,2020,9,9000.0,147912.0
+655,Maruti Suzuki,Swift,Hatchback,5.9,2020,9,22643.0,147912.0
+656,Maruti Suzuki,Vitara Brezza,SUV,7.68,2020,9,9153.0,147912.0
+657,Maruti Suzuki,WagonR,Hatchback,5.16,2020,9,17581.0,147912.0
+658,Maruti Suzuki,XL6,MUV,10.01,2020,9,2087.0,147912.0
+659,MG,Gloster,SUV,30.99,2020,9,,2537.0
+660,MG,Hector,SUV,13.95,2020,9,2410.0,2537.0
+661,MG,ZS EV,SUV,21.49,2020,9,127.0,2537.0
+662,Nissan,Kicks,SUV,9.5,2020,9,58.0,58.0
+663,Nissan,Magnite,SUV,5.77,2020,9,,58.0
+664,Renault,Captur,SUV,9.5,2020,9,,8805.0
+665,Renault,Duster,SUV,9.85,2020,9,133.0,8805.0
+666,Renault,Kwid,Hatchback,4.24,2020,9,4513.0,8805.0
+667,Renault,Triber,MUV,5.67,2020,9,4159.0,8805.0
+668,Skoda,Karoq,SUV,24.99,2020,9,240.0,1312.0
+669,Skoda,Kodiaq,SUV,34.99,2020,9,,1312.0
+670,Skoda,Octavia,Sedan,26.29,2020,9,17.0,1312.0
+671,Skoda,Rapid,Sedan,11.99,2020,9,907.0,1312.0
+672,Skoda,Superb,Sedan,32.85,2020,9,148.0,1312.0
+673,Tata,Altroz,Hatchback,5.99,2020,9,5952.0,21200.0
+674,Tata,Harrier,SUV,14.49,2020,9,1755.0,21200.0
+675,Tata,Hexa,MUV,13.69,2020,9,,21200.0
+676,Tata,Nexon,SUV,7.39,2020,9,6007.0,21200.0
+677,Tata,Tiago,Hatchback,5.19,2020,9,6080.0,21200.0
+678,Tata,Tigor,Hatchback,5.79,2020,9,1406.0,21200.0
+679,Toyota,Camry,Sedan,41.7,2020,9,21.0,8116.0
+680,Toyota,Fortuner,MUV,31.38,2020,9,1045.0,8116.0
+681,Toyota,Glanza,Hatchback,7.69,2020,9,2572.0,8116.0
+682,Toyota,Innova,MUV,17.3,2020,9,4087.0,8116.0
+683,Toyota,Urban Cruiser,SUV,8.87,2020,9,,8116.0
+684,Toyota,Vellfire,Van,89.85,2020,9,14.0,8116.0
+685,Toyota,Yaris,Sedan,9.29,2020,9,377.0,8116.0
+686,Volkswagen,Polo,Hatchback,6.49,2020,9,1585.0,2050.0
+687,Volkswagen,Tiguan,SUV,11.0,2020,9,24.0,2050.0
+688,Volkswagen,T-Roc,SUV,21.35,2020,9,233.0,2050.0
+689,Volkswagen,Vento,Sedan,10.0,2020,9,208.0,2050.0
+690,Datsun,Go,Hatchback,4.03,2020,10,43.0,983.0
+691,Datsun,Go Plus,MUV,4.26,2020,10,30.0,983.0
+692,Datsun,RediGo,Hatchback,3.98,2020,10,910.0,983.0
+693,Honda,Amaze,Sedan,6.39,2020,10,4709.0,10836.0
+694,Honda,City,Sedan,11.23,2020,10,4124.0,10836.0
+695,Honda,Civic,Sedan,17.95,2020,10,230.0,10836.0
+696,Honda,CRV,MUV,20.0,2020,10,31.0,10836.0
+697,Honda,Jazz,Hatchback,7.72,2020,10,642.0,10836.0
+698,Honda,WRV,SUV,8.83,2020,10,1100.0,10836.0
+699,Hyundai,Creta,SUV,10.22,2020,10,14023.0,56605.0
+700,Hyundai,Elantra,Sedan,17.86,2020,10,46.0,56605.0
+701,Hyundai,Elite i20,Hatchback,5.57,2020,10,8399.0,56605.0
+702,Hyundai,Grand i10,Hatchback,5.0,2020,10,14003.0,56605.0
+703,Hyundai,Kona,Electric,23.0,2020,10,13.0,56605.0
+704,Hyundai,Santro,Hatchback,3.13,2020,10,3463.0,56605.0
+705,Hyundai,Tucson,SUV,23.0,2020,10,87.0,56605.0
+706,Hyundai,Venue,SUV,7.0,2020,10,8828.0,56605.0
+707,Hyundai,Verna,Sedan,8.0,2020,10,2166.0,56605.0
+708,Hyundai,"Xcent, Aura",Sedan,6.0,2020,10,5577.0,56605.0
+709,Jeep,Compass,SUV,17.79,2020,10,832.0,832.0
+710,Jeep,Wrangler,SUV,56.33,2020,10,,832.0
+711,Kia,Carnival,Van,25.48,2020,10,400.0,21021.0
+712,Kia,Seltos,SUV,9.95,2020,10,8900.0,21021.0
+713,Kia,Sonet,SUV,9.95,2020,10,11721.0,21021.0
+714,Mahindra,Alturas G4,SUV,28.85,2020,10,69.0,18318.0
+715,Mahindra,Bolero,SUV,8.99,2020,10,7624.0,18318.0
+716,Mahindra,KUV100,SUV,6.19,2020,10,35.0,18318.0
+717,Mahindra,Marazzo,SUV,12.79,2020,10,737.0,18318.0
+718,Mahindra,Scorpio,SUV,13.18,2020,10,3961.0,18318.0
+719,Mahindra,Thar,SUV,13.17,2020,10,,18318.0
+720,Mahindra,TUV300,SUV,15.0,2020,10,,18318.0
+721,Mahindra,"Verito, Vibe",Sedan,10.0,2020,10,1.0,18318.0
+722,Mahindra,XUV300,SUV,8.16,2020,10,4882.0,18318.0
+723,Mahindra,XUV500,SUV,13.0,2020,10,1009.0,18318.0
+724,Maruti Suzuki,Alto,Hatchback,3.25,2020,10,17850.0,163656.0
+725,Maruti Suzuki,Baleno,Hatchback,6.03,2020,10,21971.0,163656.0
+726,Maruti Suzuki,Celerio,Hatchback,5.14,2020,10,7574.0,163656.0
+727,Maruti Suzuki,Ciaz,Sedan,8.67,2020,10,1422.0,163656.0
+728,Maruti Suzuki,Dzire,Sedan,6.09,2020,10,17675.0,163656.0
+729,Maruti Suzuki,Eeco,Van,4.53,2020,10,13309.0,163656.0
+730,Maruti Suzuki,Ertiga,MUV,8.11,2020,10,7748.0,163656.0
+731,Maruti Suzuki,Gypsy,SUV,6.5,2020,10,596.0,163656.0
+732,Maruti Suzuki,Ignis,Hatchback,5.08,2020,10,4555.0,163656.0
+733,Maruti Suzuki,S-Cross,SUV,8.6,2020,10,2526.0,163656.0
+734,Maruti Suzuki,S-Presso,SUV,3.85,2020,10,10612.0,163656.0
+735,Maruti Suzuki,Swift,Hatchback,5.9,2020,10,24589.0,163656.0
+736,Maruti Suzuki,Vitara Brezza,SUV,7.68,2020,10,12087.0,163656.0
+737,Maruti Suzuki,WagonR,Hatchback,5.16,2020,10,18703.0,163656.0
+738,Maruti Suzuki,XL6,MUV,10.01,2020,10,2439.0,163656.0
+739,MG,Gloster,SUV,30.99,2020,10,,3750.0
+740,MG,Hector,SUV,13.95,2020,10,3625.0,3750.0
+741,MG,ZS EV,SUV,21.49,2020,10,125.0,3750.0
+742,Nissan,Kicks,SUV,9.5,2020,10,122.0,122.0
+743,Nissan,Magnite,SUV,5.77,2020,10,,122.0
+744,Renault,Captur,SUV,9.5,2020,10,,11005.0
+745,Renault,Duster,SUV,9.85,2020,10,362.0,11005.0
+746,Renault,Kwid,Hatchback,4.24,2020,10,5371.0,11005.0
+747,Renault,Triber,MUV,5.67,2020,10,5272.0,11005.0
+748,Skoda,Karoq,SUV,24.99,2020,10,182.0,1421.0
+749,Skoda,Kodiaq,SUV,34.99,2020,10,,1421.0
+750,Skoda,Octavia,Sedan,26.29,2020,10,31.0,1421.0
+751,Skoda,Rapid,Sedan,11.99,2020,10,1024.0,1421.0
+752,Skoda,Superb,Sedan,32.85,2020,10,184.0,1421.0
+753,Tata,Altroz,Hatchback,5.99,2020,10,6730.0,23600.0
+754,Tata,Harrier,SUV,14.49,2020,10,2398.0,23600.0
+755,Tata,Hexa,MUV,13.69,2020,10,,23600.0
+756,Tata,Nexon,SUV,7.39,2020,10,6888.0,23600.0
+757,Tata,Tiago,Hatchback,5.19,2020,10,6083.0,23600.0
+758,Tata,Tigor,Hatchback,5.79,2020,10,1501.0,23600.0
+759,Toyota,Camry,Sedan,41.7,2020,10,38.0,12373.0
+760,Toyota,Fortuner,MUV,31.38,2020,10,1472.0,12373.0
+761,Toyota,Glanza,Hatchback,7.69,2020,10,2978.0,12373.0
+762,Toyota,Innova,MUV,17.3,2020,10,4477.0,12373.0
+763,Toyota,Urban Cruiser,SUV,8.87,2020,10,3006.0,12373.0
+764,Toyota,Vellfire,Van,89.85,2020,10,29.0,12373.0
+765,Toyota,Yaris,Sedan,9.29,2020,10,373.0,12373.0
+766,Volkswagen,Polo,Hatchback,6.49,2020,10,1564.0,2054.0
+767,Volkswagen,Tiguan,SUV,11.0,2020,10,170.0,2054.0
+768,Volkswagen,T-Roc,SUV,21.35,2020,10,89.0,2054.0
+769,Volkswagen,Vento,Sedan,10.0,2020,10,231.0,2054.0
+770,Datsun,Go,Hatchback,4.03,2020,11,13.0,859.0
+771,Datsun,Go Plus,MUV,4.26,2020,11,17.0,859.0
+772,Datsun,RediGo,Hatchback,3.98,2020,11,829.0,859.0
+773,Honda,Amaze,Sedan,6.39,2020,11,4706.0,9990.0
+774,Honda,City,Sedan,11.23,2020,11,3523.0,9990.0
+775,Honda,Civic,Sedan,17.95,2020,11,143.0,9990.0
+776,Honda,CRV,MUV,20.0,2020,11,27.0,9990.0
+777,Honda,Jazz,Hatchback,7.72,2020,11,633.0,9990.0
+778,Honda,WRV,SUV,8.83,2020,11,958.0,9990.0
+779,Hyundai,Creta,SUV,10.22,2020,11,12017.0,48800.0
+780,Hyundai,Elantra,Sedan,17.86,2020,11,38.0,48800.0
+781,Hyundai,Elite i20,Hatchback,5.57,2020,11,9096.0,48800.0
+782,Hyundai,Grand i10,Hatchback,5.0,2020,11,10936.0,48800.0
+783,Hyundai,Kona,Electric,23.0,2020,11,,48800.0
+784,Hyundai,Santro,Hatchback,3.13,2020,11,2822.0,48800.0
+785,Hyundai,Tucson,SUV,23.0,2020,11,76.0,48800.0
+786,Hyundai,Venue,SUV,7.0,2020,11,9265.0,48800.0
+787,Hyundai,Verna,Sedan,8.0,2020,11,1487.0,48800.0
+788,Hyundai,"Xcent, Aura",Sedan,6.0,2020,11,3063.0,48800.0
+789,Jeep,Compass,SUV,17.79,2020,11,702.0,709.0
+790,Jeep,Wrangler,SUV,56.33,2020,11,7.0,709.0
+791,Kia,Carnival,Van,25.48,2020,11,400.0,21022.0
+792,Kia,Seltos,SUV,9.95,2020,11,9205.0,21022.0
+793,Kia,Sonet,SUV,9.95,2020,11,11417.0,21022.0
+794,Mahindra,Alturas G4,SUV,28.85,2020,11,23.0,17971.0
+795,Mahindra,Bolero,SUV,8.99,2020,11,6055.0,17971.0
+796,Mahindra,KUV100,SUV,6.19,2020,11,23.0,17971.0
+797,Mahindra,Marazzo,SUV,12.79,2020,11,226.0,17971.0
+798,Mahindra,Scorpio,SUV,13.18,2020,11,3725.0,17971.0
+799,Mahindra,Thar,SUV,13.17,2020,11,2569.0,17971.0
+800,Mahindra,TUV300,SUV,15.0,2020,11,,17971.0
+801,Mahindra,"Verito, Vibe",Sedan,10.0,2020,11,,17971.0
+802,Mahindra,XUV300,SUV,8.16,2020,11,4458.0,17971.0
+803,Mahindra,XUV500,SUV,13.0,2020,11,892.0,17971.0
+804,Maruti Suzuki,Alto,Hatchback,3.25,2020,11,15321.0,135775.0
+805,Maruti Suzuki,Baleno,Hatchback,6.03,2020,11,17872.0,135775.0
+806,Maruti Suzuki,Celerio,Hatchback,5.14,2020,11,6533.0,135775.0
+807,Maruti Suzuki,Ciaz,Sedan,8.67,2020,11,1870.0,135775.0
+808,Maruti Suzuki,Dzire,Sedan,6.09,2020,11,13536.0,135775.0
+809,Maruti Suzuki,Eeco,Van,4.53,2020,11,11183.0,135775.0
+810,Maruti Suzuki,Ertiga,MUV,8.11,2020,11,9557.0,135775.0
+811,Maruti Suzuki,Gypsy,SUV,6.5,2020,11,93.0,135775.0
+812,Maruti Suzuki,Ignis,Hatchback,5.08,2020,11,3935.0,135775.0
+813,Maruti Suzuki,S-Cross,SUV,8.6,2020,11,2877.0,135775.0
+814,Maruti Suzuki,S-Presso,SUV,3.85,2020,11,7018.0,135775.0
+815,Maruti Suzuki,Swift,Hatchback,5.9,2020,11,18498.0,135775.0
+816,Maruti Suzuki,Vitara Brezza,SUV,7.68,2020,11,7838.0,135775.0
+817,Maruti Suzuki,WagonR,Hatchback,5.16,2020,11,16256.0,135775.0
+818,Maruti Suzuki,XL6,MUV,10.01,2020,11,3388.0,135775.0
+819,MG,Gloster,SUV,30.99,2020,11,627.0,4163.0
+820,MG,Hector,SUV,13.95,2020,11,3426.0,4163.0
+821,MG,ZS EV,SUV,21.49,2020,11,110.0,4163.0
+822,Nissan,Kicks,SUV,9.5,2020,11,158.0,158.0
+823,Nissan,Magnite,SUV,5.77,2020,11,,158.0
+824,Renault,Captur,SUV,9.5,2020,11,,10181.0
+825,Renault,Duster,SUV,9.85,2020,11,416.0,10181.0
+826,Renault,Kwid,Hatchback,4.24,2020,11,4956.0,10181.0
+827,Renault,Triber,MUV,5.67,2020,11,4809.0,10181.0
+828,Skoda,Karoq,SUV,24.99,2020,11,5.0,1056.0
+829,Skoda,Kodiaq,SUV,34.99,2020,11,,1056.0
+830,Skoda,Octavia,Sedan,26.29,2020,11,20.0,1056.0
+831,Skoda,Rapid,Sedan,11.99,2020,11,813.0,1056.0
+832,Skoda,Superb,Sedan,32.85,2020,11,218.0,1056.0
+833,Tata,Altroz,Hatchback,5.99,2020,11,6260.0,21640.0
+834,Tata,Harrier,SUV,14.49,2020,11,2210.0,21640.0
+835,Tata,Hexa,MUV,13.69,2020,11,,21640.0
+836,Tata,Nexon,SUV,7.39,2020,11,6021.0,21640.0
+837,Tata,Tiago,Hatchback,5.19,2020,11,5890.0,21640.0
+838,Tata,Tigor,Hatchback,5.79,2020,11,1259.0,21640.0
+839,Toyota,Camry,Sedan,41.7,2020,11,32.0,8508.0
+840,Toyota,Fortuner,MUV,31.38,2020,11,656.0,8508.0
+841,Toyota,Glanza,Hatchback,7.69,2020,11,2428.0,8508.0
+842,Toyota,Innova,MUV,17.3,2020,11,2192.0,8508.0
+843,Toyota,Urban Cruiser,SUV,8.87,2020,11,2832.0,8508.0
+844,Toyota,Vellfire,Van,89.85,2020,11,23.0,8508.0
+845,Toyota,Yaris,Sedan,9.29,2020,11,345.0,8508.0
+846,Volkswagen,Polo,Hatchback,6.49,2020,11,1130.0,1412.0
+847,Volkswagen,Tiguan,SUV,11.0,2020,11,138.0,1412.0
+848,Volkswagen,T-Roc,SUV,21.35,2020,11,19.0,1412.0
+849,Volkswagen,Vento,Sedan,10.0,2020,11,125.0,1412.0
+850,Datsun,Go,Hatchback,4.03,2020,12,,502.0
+851,Datsun,Go Plus,MUV,4.26,2020,12,,502.0
+852,Datsun,RediGo,Hatchback,3.98,2020,12,502.0,502.0
+853,Honda,Amaze,Sedan,6.39,2020,12,4385.0,8638.0
+854,Honda,City,Sedan,11.23,2020,12,2717.0,8638.0
+855,Honda,Civic,Sedan,17.95,2020,12,,8638.0
+856,Honda,CRV,MUV,20.0,2020,12,4.0,8638.0
+857,Honda,Jazz,Hatchback,7.72,2020,12,602.0,8638.0
+858,Honda,WRV,SUV,8.83,2020,12,930.0,8638.0
+859,Hyundai,Creta,SUV,10.22,2020,12,10592.0,47400.0
+860,Hyundai,Elantra,Sedan,17.86,2020,12,15.0,47400.0
+861,Hyundai,Elite i20,Hatchback,5.57,2020,12,8004.0,47400.0
+862,Hyundai,Grand i10,Hatchback,5.0,2020,12,10263.0,47400.0
+863,Hyundai,Kona,Electric,23.0,2020,12,24.0,47400.0
+864,Hyundai,Santro,Hatchback,3.13,2020,12,1960.0,47400.0
+865,Hyundai,Tucson,SUV,23.0,2020,12,80.0,47400.0
+866,Hyundai,Venue,SUV,7.0,2020,12,12313.0,47400.0
+867,Hyundai,Verna,Sedan,8.0,2020,12,1036.0,47400.0
+868,Hyundai,"Xcent, Aura",Sedan,6.0,2020,12,3113.0,47400.0
+869,Jeep,Compass,SUV,17.79,2020,12,384.0,384.0
+870,Jeep,Wrangler,SUV,56.33,2020,12,,384.0
+871,Kia,Carnival,Van,25.48,2020,12,251.0,11818.0
+872,Kia,Seltos,SUV,9.95,2020,12,5608.0,11818.0
+873,Kia,Sonet,SUV,9.95,2020,12,5959.0,11818.0
+874,Mahindra,Alturas G4,SUV,28.85,2020,12,9.0,18720.0
+875,Mahindra,Bolero,SUV,8.99,2020,12,7723.0,18720.0
+876,Mahindra,KUV100,SUV,6.19,2020,12,16.0,18720.0
+877,Mahindra,Marazzo,SUV,12.79,2020,12,161.0,18720.0
+878,Mahindra,Scorpio,SUV,13.18,2020,12,3417.0,18720.0
+879,Mahindra,Thar,SUV,13.17,2020,12,2670.0,18720.0
+880,Mahindra,TUV300,SUV,15.0,2020,12,,18720.0
+881,Mahindra,"Verito, Vibe",Sedan,10.0,2020,12,,18720.0
+882,Mahindra,XUV300,SUV,8.16,2020,12,3974.0,18720.0
+883,Mahindra,XUV500,SUV,13.0,2020,12,750.0,18720.0
+884,Maruti Suzuki,Alto,Hatchback,3.25,2020,12,18140.0,140754.0
+885,Maruti Suzuki,Baleno,Hatchback,6.03,2020,12,18030.0,140754.0
+886,Maruti Suzuki,Celerio,Hatchback,5.14,2020,12,6660.0,140754.0
+887,Maruti Suzuki,Ciaz,Sedan,8.67,2020,12,1270.0,140754.0
+888,Maruti Suzuki,Dzire,Sedan,6.09,2020,12,13868.0,140754.0
+889,Maruti Suzuki,Eeco,Van,4.53,2020,12,11215.0,140754.0
+890,Maruti Suzuki,Ertiga,MUV,8.11,2020,12,9177.0,140754.0
+891,Maruti Suzuki,Gypsy,SUV,6.5,2020,12,,140754.0
+892,Maruti Suzuki,Ignis,Hatchback,5.08,2020,12,3268.0,140754.0
+893,Maruti Suzuki,S-Cross,SUV,8.6,2020,12,1185.0,140754.0
+894,Maruti Suzuki,S-Presso,SUV,3.85,2020,12,6787.0,140754.0
+895,Maruti Suzuki,Swift,Hatchback,5.9,2020,12,18131.0,140754.0
+896,Maruti Suzuki,Vitara Brezza,SUV,7.68,2020,12,12251.0,140754.0
+897,Maruti Suzuki,WagonR,Hatchback,5.16,2020,12,17684.0,140754.0
+898,Maruti Suzuki,XL6,MUV,10.01,2020,12,3088.0,140754.0
+899,MG,Gloster,SUV,30.99,2020,12,458.0,4010.0
+900,MG,Hector,SUV,13.95,2020,12,3430.0,4010.0
+901,MG,ZS EV,SUV,21.49,2020,12,122.0,4010.0
+902,Nissan,Kicks,SUV,9.5,2020,12,97.0,657.0
+903,Nissan,Magnite,SUV,5.77,2020,12,560.0,657.0
+904,Renault,Captur,SUV,9.5,2020,12,,9800.0
+905,Renault,Duster,SUV,9.85,2020,12,494.0,9800.0
+906,Renault,Kwid,Hatchback,4.24,2020,12,4335.0,9800.0
+907,Renault,Triber,MUV,5.67,2020,12,4971.0,9800.0
+908,Skoda,Karoq,SUV,24.99,2020,12,4.0,1303.0
+909,Skoda,Kodiaq,SUV,34.99,2020,12,,1303.0
+910,Skoda,Octavia,Sedan,26.29,2020,12,22.0,1303.0
+911,Skoda,Rapid,Sedan,11.99,2020,12,1015.0,1303.0
+912,Skoda,Superb,Sedan,32.85,2020,12,262.0,1303.0
+913,Tata,Altroz,Hatchback,5.99,2020,12,6600.0,23546.0
+914,Tata,Harrier,SUV,14.49,2020,12,2223.0,23546.0
+915,Tata,Hexa,MUV,13.69,2020,12,,23546.0
+916,Tata,Nexon,SUV,7.39,2020,12,6835.0,23546.0
+917,Tata,Tiago,Hatchback,5.19,2020,12,6066.0,23546.0
+918,Tata,Tigor,Hatchback,5.79,2020,12,1822.0,23546.0
+919,Toyota,Camry,Sedan,41.7,2020,12,33.0,7487.0
+920,Toyota,Fortuner,MUV,31.38,2020,12,584.0,7487.0
+921,Toyota,Glanza,Hatchback,7.69,2020,12,2102.0,7487.0
+922,Toyota,Innova,MUV,17.3,2020,12,2764.0,7487.0
+923,Toyota,Urban Cruiser,SUV,8.87,2020,12,1762.0,7487.0
+924,Toyota,Vellfire,Van,89.85,2020,12,16.0,7487.0
+925,Toyota,Yaris,Sedan,9.29,2020,12,226.0,7487.0
+926,Volkswagen,Polo,Hatchback,6.49,2020,12,1805.0,2401.0
+927,Volkswagen,Tiguan,SUV,11.0,2020,12,247.0,2401.0
+928,Volkswagen,T-Roc,SUV,21.35,2020,12,1.0,2401.0
+929,Volkswagen,Vento,Sedan,10.0,2020,12,348.0,2401.0
+930,Datsun,Go,Hatchback,4.03,2021,1,30.0,840.0
+931,Datsun,Go Plus,MUV,4.26,2021,1,30.0,840.0
+932,Datsun,RediGo,Hatchback,3.98,2021,1,780.0,840.0
+933,Honda,Amaze,Sedan,6.39,2021,1,5477.0,10319.0
+934,Honda,City,Sedan,11.23,2021,1,2667.0,10319.0
+935,Honda,Civic,Sedan,17.95,2021,1,,10319.0
+936,Honda,CRV,MUV,20.0,2021,1,11.0,10319.0
+937,Honda,Jazz,Hatchback,7.72,2021,1,953.0,10319.0
+938,Honda,WRV,SUV,8.83,2021,1,1211.0,10319.0
+939,Hyundai,Alcazar,SUV,16.34,2021,1,,52005.0
+940,Hyundai,Creta,SUV,10.22,2021,1,12284.0,52005.0
+941,Hyundai,Elantra,Sedan,17.86,2021,1,32.0,52005.0
+942,Hyundai,Grand i10,Hatchback,5.0,2021,1,10865.0,52005.0
+943,Hyundai,i20,Hatchback,4.88,2021,1,8505.0,52005.0
+944,Hyundai,Kona,Electric,23.0,2021,1,21.0,52005.0
+945,Hyundai,Santro,Hatchback,3.13,2021,1,2211.0,52005.0
+946,Hyundai,Tucson,SUV,23.0,2021,1,125.0,52005.0
+947,Hyundai,Venue,SUV,7.0,2021,1,11779.0,52005.0
+948,Hyundai,Verna,Sedan,8.0,2021,1,2000.0,52005.0
+949,Hyundai,"Xcent, Aura",Sedan,6.0,2021,1,4183.0,52005.0
+950,Jeep,Compass,SUV,17.79,2021,1,394.0,394.0
+951,Jeep,Wrangler,SUV,56.33,2021,1,,394.0
+952,Kia,Carnival,Van,25.48,2021,1,328.0,19056.0
+953,Kia,Seltos,SUV,9.95,2021,1,9869.0,19056.0
+954,Kia,Sonet,SUV,9.95,2021,1,8859.0,19056.0
+955,Mahindra,Alturas G4,SUV,28.85,2021,1,10.0,20498.0
+956,Mahindra,Bolero,SUV,8.99,2021,1,7567.0,20498.0
+957,Mahindra,KUV100,SUV,6.19,2021,1,11.0,20498.0
+958,Mahindra,Marazzo,SUV,12.79,2021,1,175.0,20498.0
+959,Mahindra,Scorpio,SUV,13.18,2021,1,4083.0,20498.0
+960,Mahindra,Thar,SUV,13.17,2021,1,3152.0,20498.0
+961,Mahindra,TUV300,SUV,15.0,2021,1,,20498.0
+962,Mahindra,XUV300,SUV,8.16,2021,1,4612.0,20498.0
+963,Mahindra,XUV500,SUV,13.0,2021,1,888.0,20498.0
+964,Maruti Suzuki,Alto,Hatchback,3.25,2021,1,18260.0,139002.0
+965,Maruti Suzuki,Baleno,Hatchback,6.03,2021,1,16648.0,139002.0
+966,Maruti Suzuki,Celerio,Hatchback,5.14,2021,1,6963.0,139002.0
+967,Maruti Suzuki,Ciaz,Sedan,8.67,2021,1,1347.0,139002.0
+968,Maruti Suzuki,Dzire,Sedan,6.09,2021,1,15125.0,139002.0
+969,Maruti Suzuki,Eeco,Van,4.53,2021,1,11680.0,139002.0
+970,Maruti Suzuki,Ertiga,MUV,8.11,2021,1,9565.0,139002.0
+971,Maruti Suzuki,Ignis,Hatchback,5.08,2021,1,3854.0,139002.0
+972,Maruti Suzuki,S-Cross,SUV,8.6,2021,1,580.0,139002.0
+973,Maruti Suzuki,S-Presso,SUV,3.85,2021,1,6893.0,139002.0
+974,Maruti Suzuki,Swift,Hatchback,5.9,2021,1,17180.0,139002.0
+975,Maruti Suzuki,Vitara Brezza,SUV,7.68,2021,1,10623.0,139002.0
+976,Maruti Suzuki,WagonR,Hatchback,5.16,2021,1,17165.0,139002.0
+977,Maruti Suzuki,XL6,MUV,10.01,2021,1,3119.0,139002.0
+978,MG,Gloster,SUV,30.99,2021,1,475.0,3602.0
+979,MG,Hector,SUV,13.95,2021,1,3003.0,3602.0
+980,MG,ZS EV,SUV,21.49,2021,1,124.0,3602.0
+981,Nissan,Kicks,SUV,9.5,2021,1,150.0,3181.0
+982,Nissan,Magnite,SUV,5.77,2021,1,3031.0,3181.0
+983,Renault,Duster,SUV,9.85,2021,1,336.0,8209.0
+984,Renault,Kiger,SUV,5.79,2021,1,,8209.0
+985,Renault,Kwid,Hatchback,4.24,2021,1,3791.0,8209.0
+986,Renault,Triber,MUV,5.67,2021,1,4082.0,8209.0
+987,Skoda,Karoq,SUV,24.99,2021,1,,1004.0
+988,Skoda,Kodiaq,SUV,34.99,2021,1,,1004.0
+989,Skoda,Octavia,Sedan,26.29,2021,1,8.0,1004.0
+990,Skoda,Rapid,Sedan,11.99,2021,1,757.0,1004.0
+991,Skoda,Superb,Sedan,32.85,2021,1,239.0,1004.0
+992,Tata,Altroz,Hatchback,5.99,2021,1,7378.0,26980.0
+993,Tata,Harrier,SUV,14.49,2021,1,2443.0,26980.0
+994,Tata,Nexon,SUV,7.39,2021,1,8225.0,26980.0
+995,Tata,Safari,MUV,14.99,2021,1,,26980.0
+996,Tata,Tiago,Hatchback,5.19,2021,1,6909.0,26980.0
+997,Tata,Tigor,Hatchback,5.79,2021,1,2025.0,26980.0
+998,Toyota,Camry,Sedan,41.7,2021,1,45.0,11126.0
+999,Toyota,Fortuner,MUV,31.38,2021,1,1169.0,11126.0
+1000,Toyota,Glanza,Hatchback,7.69,2021,1,2556.0,11126.0
+1001,Toyota,Innova,MUV,17.3,2021,1,3939.0,11126.0
+1002,Toyota,Urban Cruiser,SUV,8.87,2021,1,3005.0,11126.0
+1003,Toyota,Vellfire,Van,89.85,2021,1,,11126.0
+1004,Toyota,Yaris,Sedan,9.29,2021,1,412.0,11126.0
+1005,Volkswagen,Polo,Hatchback,6.49,2021,1,1747.0,2041.0
+1006,Volkswagen,Tiguan,SUV,11.0,2021,1,74.0,2041.0
+1007,Volkswagen,T-Roc,SUV,21.35,2021,1,,2041.0
+1008,Volkswagen,Vento,Sedan,10.0,2021,1,220.0,2041.0
+1009,Datsun,Go,Hatchback,4.03,2021,2,29.0,990.0
+1010,Datsun,Go Plus,MUV,4.26,2021,2,72.0,990.0
+1011,Datsun,RediGo,Hatchback,3.98,2021,2,889.0,990.0
+1012,Honda,Amaze,Sedan,6.39,2021,2,4939.0,9321.0
+1013,Honda,City,Sedan,11.23,2021,2,2524.0,9321.0
+1014,Honda,Civic,Sedan,17.95,2021,2,,9321.0
+1015,Honda,CRV,MUV,20.0,2021,2,1.0,9321.0
+1016,Honda,Jazz,Hatchback,7.72,2021,2,856.0,9321.0
+1017,Honda,WRV,SUV,8.83,2021,2,1001.0,9321.0
+1018,Hyundai,Alcazar,SUV,16.34,2021,2,,51600.0
+1019,Hyundai,Creta,SUV,10.22,2021,2,12428.0,51600.0
+1020,Hyundai,Elantra,Sedan,17.86,2021,2,40.0,51600.0
+1021,Hyundai,Grand i10,Hatchback,5.0,2021,2,10270.0,51600.0
+1022,Hyundai,i20,Hatchback,4.88,2021,2,9001.0,51600.0
+1023,Hyundai,Kona,Electric,23.0,2021,2,10.0,51600.0
+1024,Hyundai,Santro,Hatchback,3.13,2021,2,2128.0,51600.0
+1025,Hyundai,Tucson,SUV,23.0,2021,2,152.0,51600.0
+1026,Hyundai,Venue,SUV,7.0,2021,2,11224.0,51600.0
+1027,Hyundai,Verna,Sedan,8.0,2021,2,2047.0,51600.0
+1028,Hyundai,"Xcent, Aura",Sedan,6.0,2021,2,4300.0,51600.0
+1029,Jeep,Compass,SUV,17.79,2021,2,1103.0,1103.0
+1030,Jeep,Wrangler,SUV,56.33,2021,2,,1103.0
+1031,Kia,Carnival,Van,25.48,2021,2,400.0,16702.0
+1032,Kia,Seltos,SUV,9.95,2021,2,8305.0,16702.0
+1033,Kia,Sonet,SUV,9.95,2021,2,7997.0,16702.0
+1034,Mahindra,Alturas G4,SUV,28.85,2021,2,36.0,15380.0
+1035,Mahindra,Bolero,SUV,8.99,2021,2,4843.0,15380.0
+1036,Mahindra,KUV100,SUV,6.19,2021,2,4.0,15380.0
+1037,Mahindra,Marazzo,SUV,12.79,2021,2,120.0,15380.0
+1038,Mahindra,Scorpio,SUV,13.18,2021,2,3532.0,15380.0
+1039,Mahindra,Thar,SUV,13.17,2021,2,2842.0,15380.0
+1040,Mahindra,TUV300,SUV,15.0,2021,2,,15380.0
+1041,Mahindra,XUV300,SUV,8.16,2021,2,3174.0,15380.0
+1042,Mahindra,XUV500,SUV,13.0,2021,2,829.0,15380.0
+1043,Maruti Suzuki,Alto,Hatchback,3.25,2021,2,16919.0,144761.0
+1044,Maruti Suzuki,Baleno,Hatchback,6.03,2021,2,20070.0,144761.0
+1045,Maruti Suzuki,Celerio,Hatchback,5.14,2021,2,6214.0,144761.0
+1046,Maruti Suzuki,Ciaz,Sedan,8.67,2021,2,1510.0,144761.0
+1047,Maruti Suzuki,Dzire,Sedan,6.09,2021,2,11901.0,144761.0
+1048,Maruti Suzuki,Eeco,Van,4.53,2021,2,11891.0,144761.0
+1049,Maruti Suzuki,Ertiga,MUV,8.11,2021,2,9774.0,144761.0
+1050,Maruti Suzuki,Ignis,Hatchback,5.08,2021,2,3340.0,144761.0
+1051,Maruti Suzuki,S-Cross,SUV,8.6,2021,2,2505.0,144761.0
+1052,Maruti Suzuki,S-Presso,SUV,3.85,2021,2,7040.0,144761.0
+1053,Maruti Suzuki,Swift,Hatchback,5.9,2021,2,20264.0,144761.0
+1054,Maruti Suzuki,Vitara Brezza,SUV,7.68,2021,2,11585.0,144761.0
+1055,Maruti Suzuki,WagonR,Hatchback,5.16,2021,2,18728.0,144761.0
+1056,Maruti Suzuki,XL6,MUV,10.01,2021,2,3020.0,144761.0
+1057,MG,Gloster,SUV,30.99,2021,2,463.0,4329.0
+1058,MG,Hector,SUV,13.95,2021,2,3662.0,4329.0
+1059,MG,ZS EV,SUV,21.49,2021,2,204.0,4329.0
+1060,Nissan,Kicks,SUV,9.5,2021,2,263.0,3254.0
+1061,Nissan,Magnite,SUV,5.77,2021,2,2991.0,3254.0
+1062,Renault,Duster,SUV,9.85,2021,2,337.0,11043.0
+1063,Renault,Kiger,SUV,5.79,2021,2,3226.0,11043.0
+1064,Renault,Kwid,Hatchback,4.24,2021,2,3927.0,11043.0
+1065,Renault,Triber,MUV,5.67,2021,2,3553.0,11043.0
+1066,Skoda,Karoq,SUV,24.99,2021,2,2.0,853.0
+1067,Skoda,Kodiaq,SUV,34.99,2021,2,,853.0
+1068,Skoda,Octavia,Sedan,26.29,2021,2,2.0,853.0
+1069,Skoda,Rapid,Sedan,11.99,2021,2,614.0,853.0
+1070,Skoda,Superb,Sedan,32.85,2021,2,235.0,853.0
+1071,Tata,Altroz,Hatchback,5.99,2021,2,6832.0,27224.0
+1072,Tata,Harrier,SUV,14.49,2021,2,2030.0,27224.0
+1073,Tata,Nexon,SUV,7.39,2021,2,7929.0,27224.0
+1074,Tata,Safari,MUV,14.99,2021,2,1707.0,27224.0
+1075,Tata,Tiago,Hatchback,5.19,2021,2,6787.0,27224.0
+1076,Tata,Tigor,Hatchback,5.79,2021,2,1939.0,27224.0
+1077,Toyota,Camry,Sedan,41.7,2021,2,15.0,14069.0
+1078,Toyota,Fortuner,MUV,31.38,2021,2,2053.0,14069.0
+1079,Toyota,Glanza,Hatchback,7.69,2021,2,2743.0,14069.0
+1080,Toyota,Innova,MUV,17.3,2021,2,6018.0,14069.0
+1081,Toyota,Urban Cruiser,SUV,8.87,2021,2,2549.0,14069.0
+1082,Toyota,Vellfire,Van,89.85,2021,2,34.0,14069.0
+1083,Toyota,Yaris,Sedan,9.29,2021,2,657.0,14069.0
+1084,Volkswagen,Polo,Hatchback,6.49,2021,2,1937.0,2186.0
+1085,Volkswagen,Tiguan,SUV,11.0,2021,2,63.0,2186.0
+1086,Volkswagen,T-Roc,SUV,21.35,2021,2,,2186.0
+1087,Volkswagen,Vento,Sedan,10.0,2021,2,186.0,2186.0
+1088,Datsun,Go,Hatchback,4.03,2021,3,19.0,884.0
+1089,Datsun,Go Plus,MUV,4.26,2021,3,30.0,884.0
+1090,Datsun,RediGo,Hatchback,3.98,2021,3,835.0,884.0
+1091,Honda,Amaze,Sedan,6.39,2021,3,4596.0,7103.0
+1092,Honda,City,Sedan,11.23,2021,3,815.0,7103.0
+1093,Honda,Civic,Sedan,17.95,2021,3,6.0,7103.0
+1094,Honda,CRV,MUV,20.0,2021,3,1.0,7103.0
+1095,Honda,Jazz,Hatchback,7.72,2021,3,707.0,7103.0
+1096,Honda,WRV,SUV,8.83,2021,3,978.0,7103.0
+1097,Hyundai,Alcazar,SUV,16.34,2021,3,,52600.0
+1098,Hyundai,Creta,SUV,10.22,2021,3,12640.0,52600.0
+1099,Hyundai,Elantra,Sedan,17.86,2021,3,53.0,52600.0
+1100,Hyundai,Grand i10,Hatchback,5.0,2021,3,11020.0,52600.0
+1101,Hyundai,i20,Hatchback,4.88,2021,3,9045.0,52600.0
+1102,Hyundai,Kona,Electric,23.0,2021,3,11.0,52600.0
+1103,Hyundai,Santro,Hatchback,3.13,2021,3,2165.0,52600.0
+1104,Hyundai,Tucson,SUV,23.0,2021,3,143.0,52600.0
+1105,Hyundai,Venue,SUV,7.0,2021,3,10722.0,52600.0
+1106,Hyundai,Verna,Sedan,8.0,2021,3,2778.0,52600.0
+1107,Hyundai,"Xcent, Aura",Sedan,6.0,2021,3,4023.0,52600.0
+1108,Jeep,Compass,SUV,17.79,2021,3,1360.0,1360.0
+1109,Jeep,Wrangler,SUV,56.33,2021,3,,1360.0
+1110,Kia,Carnival,Van,25.48,2021,3,45.0,19100.0
+1111,Kia,Seltos,SUV,9.95,2021,3,10557.0,19100.0
+1112,Kia,Sonet,SUV,9.95,2021,3,8498.0,19100.0
+1113,Mahindra,Alturas G4,SUV,28.85,2021,3,49.0,16643.0
+1114,Mahindra,Bolero,SUV,8.99,2021,3,8905.0,16643.0
+1115,Mahindra,KUV100,SUV,6.19,2021,3,1.0,16643.0
+1116,Mahindra,Marazzo,SUV,12.79,2021,3,255.0,16643.0
+1117,Mahindra,Scorpio,SUV,13.18,2021,3,2331.0,16643.0
+1118,Mahindra,Thar,SUV,13.17,2021,3,1912.0,16643.0
+1119,Mahindra,TUV300,SUV,15.0,2021,3,,16643.0
+1120,Mahindra,XUV300,SUV,8.16,2021,3,2587.0,16643.0
+1121,Mahindra,XUV500,SUV,13.0,2021,3,603.0,16643.0
+1122,Maruti Suzuki,Alto,Hatchback,3.25,2021,3,17401.0,146203.0
+1123,Maruti Suzuki,Baleno,Hatchback,6.03,2021,3,21217.0,146203.0
+1124,Maruti Suzuki,Celerio,Hatchback,5.14,2021,3,4720.0,146203.0
+1125,Maruti Suzuki,Ciaz,Sedan,8.67,2021,3,1628.0,146203.0
+1126,Maruti Suzuki,Dzire,Sedan,6.09,2021,3,11434.0,146203.0
+1127,Maruti Suzuki,Eeco,Van,4.53,2021,3,11547.0,146203.0
+1128,Maruti Suzuki,Ertiga,MUV,8.11,2021,3,9303.0,146203.0
+1129,Maruti Suzuki,Ignis,Hatchback,5.08,2021,3,4359.0,146203.0
+1130,Maruti Suzuki,S-Cross,SUV,8.6,2021,3,2535.0,146203.0
+1131,Maruti Suzuki,S-Presso,SUV,3.85,2021,3,7252.0,146203.0
+1132,Maruti Suzuki,Swift,Hatchback,5.9,2021,3,21714.0,146203.0
+1133,Maruti Suzuki,Vitara Brezza,SUV,7.68,2021,3,11274.0,146203.0
+1134,Maruti Suzuki,WagonR,Hatchback,5.16,2021,3,18757.0,146203.0
+1135,Maruti Suzuki,XL6,MUV,10.01,2021,3,3062.0,146203.0
+1136,MG,Gloster,SUV,30.99,2021,3,505.0,5528.0
+1137,MG,Hector,SUV,13.95,2021,3,4720.0,5528.0
+1138,MG,ZS EV,SUV,21.49,2021,3,303.0,5528.0
+1139,Nissan,Kicks,SUV,9.5,2021,3,141.0,3128.0
+1140,Nissan,Magnite,SUV,5.77,2021,3,2987.0,3128.0
+1141,Renault,Duster,SUV,9.85,2021,3,252.0,12356.0
+1142,Renault,Kiger,SUV,5.79,2021,3,3839.0,12356.0
+1143,Renault,Kwid,Hatchback,4.24,2021,3,4132.0,12356.0
+1144,Renault,Triber,MUV,5.67,2021,3,4133.0,12356.0
+1145,Skoda,Karoq,SUV,24.99,2021,3,1.0,1159.0
+1146,Skoda,Kodiaq,SUV,34.99,2021,3,,1159.0
+1147,Skoda,Octavia,Sedan,26.29,2021,3,5.0,1159.0
+1148,Skoda,Rapid,Sedan,11.99,2021,3,903.0,1159.0
+1149,Skoda,Superb,Sedan,32.85,2021,3,250.0,1159.0
+1150,Tata,Altroz,Hatchback,5.99,2021,3,7550.0,29655.0
+1151,Tata,Harrier,SUV,14.49,2021,3,2284.0,29655.0
+1152,Tata,Nexon,SUV,7.39,2021,3,8683.0,29655.0
+1153,Tata,Safari,MUV,14.99,2021,3,2148.0,29655.0
+1154,Tata,Tiago,Hatchback,5.19,2021,3,6893.0,29655.0
+1155,Tata,Tigor,Hatchback,5.79,2021,3,2097.0,29655.0
+1156,Toyota,Camry,Sedan,41.7,2021,3,31.0,14997.0
+1157,Toyota,Fortuner,MUV,31.38,2021,3,2136.0,14997.0
+1158,Toyota,Glanza,Hatchback,7.69,2021,3,2989.0,14997.0
+1159,Toyota,Innova,MUV,17.3,2021,3,5743.0,14997.0
+1160,Toyota,Urban Cruiser,SUV,8.87,2021,3,3162.0,14997.0
+1161,Toyota,Vellfire,Van,89.85,2021,3,65.0,14997.0
+1162,Toyota,Yaris,Sedan,9.29,2021,3,871.0,14997.0
+1163,Volkswagen,Polo,Hatchback,6.49,2021,3,1888.0,2025.0
+1164,Volkswagen,Tiguan,SUV,11.0,2021,3,,2025.0
+1165,Volkswagen,T-Roc,SUV,21.35,2021,3,,2025.0
+1166,Volkswagen,Vento,Sedan,10.0,2021,3,137.0,2025.0
+1167,Datsun,Go,Hatchback,4.03,2021,4,30.0,407.0
+1168,Datsun,Go Plus,MUV,4.26,2021,4,31.0,407.0
+1169,Datsun,RediGo,Hatchback,3.98,2021,4,346.0,407.0
+1170,Honda,Amaze,Sedan,6.39,2021,4,3920.0,9072.0
+1171,Honda,City,Sedan,11.23,2021,4,3128.0,9072.0
+1172,Honda,Civic,Sedan,17.95,2021,4,,9072.0
+1173,Honda,CRV,MUV,20.0,2021,4,,9072.0
+1174,Honda,Jazz,Hatchback,7.72,2021,4,830.0,9072.0
+1175,Honda,WRV,SUV,8.83,2021,4,1194.0,9072.0
+1176,Hyundai,Alcazar,SUV,16.34,2021,4,,49002.0
+1177,Hyundai,Creta,SUV,10.22,2021,4,12463.0,49002.0
+1178,Hyundai,Elantra,Sedan,17.86,2021,4,53.0,49002.0
+1179,Hyundai,Grand i10,Hatchback,5.0,2021,4,11540.0,49002.0
+1180,Hyundai,i20,Hatchback,4.88,2021,4,5002.0,49002.0
+1181,Hyundai,Kona,Electric,23.0,2021,4,12.0,49002.0
+1182,Hyundai,Santro,Hatchback,3.13,2021,4,2683.0,49002.0
+1183,Hyundai,Tucson,SUV,23.0,2021,4,105.0,49002.0
+1184,Hyundai,Venue,SUV,7.0,2021,4,11245.0,49002.0
+1185,Hyundai,Verna,Sedan,8.0,2021,4,2552.0,49002.0
+1186,Hyundai,"Xcent, Aura",Sedan,6.0,2021,4,3347.0,49002.0
+1187,Jeep,Compass,SUV,17.79,2021,4,846.0,846.0
+1188,Jeep,Wrangler,SUV,56.33,2021,4,,846.0
+1189,Kia,Carnival,Van,25.48,2021,4,301.0,16111.0
+1190,Kia,Seltos,SUV,9.95,2021,4,8086.0,16111.0
+1191,Kia,Sonet,SUV,9.95,2021,4,7724.0,16111.0
+1192,Mahindra,Alturas G4,SUV,28.85,2021,4,24.0,18186.0
+1193,Mahindra,Bolero,SUV,8.99,2021,4,6152.0,18186.0
+1194,Mahindra,KUV100,SUV,6.19,2021,4,5.0,18186.0
+1195,Mahindra,Marazzo,SUV,12.79,2021,4,161.0,18186.0
+1196,Mahindra,Scorpio,SUV,13.18,2021,4,3577.0,18186.0
+1197,Mahindra,Thar,SUV,13.17,2021,4,3406.0,18186.0
+1198,Mahindra,TUV300,SUV,15.0,2021,4,,18186.0
+1199,Mahindra,XUV300,SUV,8.16,2021,4,4144.0,18186.0
+1200,Mahindra,XUV500,SUV,13.0,2021,4,717.0,18186.0
+1201,Maruti Suzuki,Alto,Hatchback,3.25,2021,4,17303.0,135879.0
+1202,Maruti Suzuki,Baleno,Hatchback,6.03,2021,4,16384.0,135879.0
+1203,Maruti Suzuki,Celerio,Hatchback,5.14,2021,4,367.0,135879.0
+1204,Maruti Suzuki,Ciaz,Sedan,8.67,2021,4,1567.0,135879.0
+1205,Maruti Suzuki,Dzire,Sedan,6.09,2021,4,14073.0,135879.0
+1206,Maruti Suzuki,Eeco,Van,4.53,2021,4,11469.0,135879.0
+1207,Maruti Suzuki,Ertiga,MUV,8.11,2021,4,8644.0,135879.0
+1208,Maruti Suzuki,Ignis,Hatchback,5.08,2021,4,4522.0,135879.0
+1209,Maruti Suzuki,S-Cross,SUV,8.6,2021,4,2247.0,135879.0
+1210,Maruti Suzuki,S-Presso,SUV,3.85,2021,4,7738.0,135879.0
+1211,Maruti Suzuki,Swift,Hatchback,5.9,2021,4,18316.0,135879.0
+1212,Maruti Suzuki,Vitara Brezza,SUV,7.68,2021,4,11220.0,135879.0
+1213,Maruti Suzuki,WagonR,Hatchback,5.16,2021,4,18656.0,135879.0
+1214,Maruti Suzuki,XL6,MUV,10.01,2021,4,3373.0,135879.0
+1215,MG,Gloster,SUV,30.99,2021,4,302.0,2605.0
+1216,MG,Hector,SUV,13.95,2021,4,2147.0,2605.0
+1217,MG,ZS EV,SUV,21.49,2021,4,156.0,2605.0
+1218,Nissan,Kicks,SUV,9.5,2021,4,58.0,2964.0
+1219,Nissan,Magnite,SUV,5.77,2021,4,2904.0,2964.0
+1220,Renault,Duster,SUV,9.85,2021,4,180.0,8642.0
+1221,Renault,Kiger,SUV,5.79,2021,4,2800.0,8642.0
+1222,Renault,Kwid,Hatchback,4.24,2021,4,3236.0,8642.0
+1223,Renault,Triber,MUV,5.67,2021,4,2426.0,8642.0
+1224,Skoda,Karoq,SUV,24.99,2021,4,3.0,961.0
+1225,Skoda,Kodiaq,SUV,34.99,2021,4,,961.0
+1226,Skoda,Octavia,Sedan,26.29,2021,4,5.0,961.0
+1227,Skoda,Rapid,Sedan,11.99,2021,4,848.0,961.0
+1228,Skoda,Superb,Sedan,32.85,2021,4,105.0,961.0
+1229,Tata,Altroz,Hatchback,5.99,2021,4,6649.0,25096.0
+1230,Tata,Harrier,SUV,14.49,2021,4,1712.0,25096.0
+1231,Tata,Nexon,SUV,7.39,2021,4,6938.0,25096.0
+1232,Tata,Safari,MUV,14.99,2021,4,1514.0,25096.0
+1233,Tata,Tiago,Hatchback,5.19,2021,4,6656.0,25096.0
+1234,Tata,Tigor,Hatchback,5.79,2021,4,1627.0,25096.0
+1235,Toyota,Camry,Sedan,41.7,2021,4,,9621.0
+1236,Toyota,Fortuner,MUV,31.38,2021,4,1414.0,9621.0
+1237,Toyota,Glanza,Hatchback,7.69,2021,4,2182.0,9621.0
+1238,Toyota,Innova,MUV,17.3,2021,4,3600.0,9621.0
+1239,Toyota,Urban Cruiser,SUV,8.87,2021,4,2115.0,9621.0
+1240,Toyota,Vellfire,Van,89.85,2021,4,25.0,9621.0
+1241,Toyota,Yaris,Sedan,9.29,2021,4,285.0,9621.0
+1242,Volkswagen,Polo,Hatchback,6.49,2021,4,1197.0,1533.0
+1243,Volkswagen,Tiguan,SUV,11.0,2021,4,,1533.0
+1244,Volkswagen,T-Roc,SUV,21.35,2021,4,166.0,1533.0
+1245,Volkswagen,Vento,Sedan,10.0,2021,4,170.0,1533.0
+1246,Datsun,Go,Hatchback,4.03,2021,5,1.0,23.0
+1247,Datsun,Go Plus,MUV,4.26,2021,5,,23.0
+1248,Datsun,RediGo,Hatchback,3.98,2021,5,22.0,23.0
+1249,Honda,Amaze,Sedan,6.39,2021,5,478.0,2032.0
+1250,Honda,City,Sedan,11.23,2021,5,1148.0,2032.0
+1251,Honda,Civic,Sedan,17.95,2021,5,,2032.0
+1252,Honda,CRV,MUV,20.0,2021,5,,2032.0
+1253,Honda,Jazz,Hatchback,7.72,2021,5,214.0,2032.0
+1254,Honda,WRV,SUV,8.83,2021,5,192.0,2032.0
+1255,Hyundai,Alcazar,SUV,16.34,2021,5,1360.0,25001.0
+1256,Hyundai,Creta,SUV,10.22,2021,5,7527.0,25001.0
+1257,Hyundai,Elantra,Sedan,17.86,2021,5,9.0,25001.0
+1258,Hyundai,Grand i10,Hatchback,5.0,2021,5,3804.0,25001.0
+1259,Hyundai,i20,Hatchback,4.88,2021,5,3440.0,25001.0
+1260,Hyundai,Kona,Electric,23.0,2021,5,7.0,25001.0
+1261,Hyundai,Santro,Hatchback,3.13,2021,5,1122.0,25001.0
+1262,Hyundai,Tucson,SUV,23.0,2021,5,74.0,25001.0
+1263,Hyundai,Venue,SUV,7.0,2021,5,4840.0,25001.0
+1264,Hyundai,Verna,Sedan,8.0,2021,5,1181.0,25001.0
+1265,Hyundai,"Xcent, Aura",Sedan,6.0,2021,5,1637.0,25001.0
+1266,Jeep,Compass,SUV,17.79,2021,5,475.0,475.0
+1267,Jeep,Wrangler,SUV,56.33,2021,5,,475.0
+1268,Kia,Carnival,Van,25.48,2021,5,146.0,11050.0
+1269,Kia,Seltos,SUV,9.95,2021,5,4277.0,11050.0
+1270,Kia,Sonet,SUV,9.95,2021,5,6627.0,11050.0
+1271,Mahindra,Alturas G4,SUV,28.85,2021,5,9.0,7748.0
+1272,Mahindra,Bolero,SUV,8.99,2021,5,3517.0,7748.0
+1273,Mahindra,KUV100,SUV,6.19,2021,5,1.0,7748.0
+1274,Mahindra,Marazzo,SUV,12.79,2021,5,60.0,7748.0
+1275,Mahindra,Scorpio,SUV,13.18,2021,5,1782.0,7748.0
+1276,Mahindra,Thar,SUV,13.17,2021,5,1911.0,7748.0
+1277,Mahindra,TUV300,SUV,15.0,2021,5,,7748.0
+1278,Mahindra,XUV300,SUV,8.16,2021,5,251.0,7748.0
+1279,Mahindra,XUV500,SUV,13.0,2021,5,217.0,7748.0
+1280,Maruti Suzuki,Alto,Hatchback,3.25,2021,5,3220.0,32903.0
+1281,Maruti Suzuki,Baleno,Hatchback,6.03,2021,5,4803.0,32903.0
+1282,Maruti Suzuki,Celerio,Hatchback,5.14,2021,5,159.0,32903.0
+1283,Maruti Suzuki,Ciaz,Sedan,8.67,2021,5,349.0,32903.0
+1284,Maruti Suzuki,Dzire,Sedan,6.09,2021,5,5819.0,32903.0
+1285,Maruti Suzuki,Eeco,Van,4.53,2021,5,1096.0,32903.0
+1286,Maruti Suzuki,Ertiga,MUV,8.11,2021,5,2694.0,32903.0
+1287,Maruti Suzuki,Ignis,Hatchback,5.08,2021,5,471.0,32903.0
+1288,Maruti Suzuki,S-Cross,SUV,8.6,2021,5,231.0,32903.0
+1289,Maruti Suzuki,S-Presso,SUV,3.85,2021,5,1540.0,32903.0
+1290,Maruti Suzuki,Swift,Hatchback,5.9,2021,5,7005.0,32903.0
+1291,Maruti Suzuki,Vitara Brezza,SUV,7.68,2021,5,2648.0,32903.0
+1292,Maruti Suzuki,WagonR,Hatchback,5.16,2021,5,2086.0,32903.0
+1293,Maruti Suzuki,XL6,MUV,10.01,2021,5,782.0,32903.0
+1294,MG,Gloster,SUV,30.99,2021,5,129.0,1444.0
+1295,MG,Hector,SUV,13.95,2021,5,1231.0,1444.0
+1296,MG,ZS EV,SUV,21.49,2021,5,84.0,1444.0
+1297,Nissan,Kicks,SUV,9.5,2021,5,12.0,1212.0
+1298,Nissan,Magnite,SUV,5.77,2021,5,1200.0,1212.0
+1299,Renault,Duster,SUV,9.85,2021,5,32.0,2620.0
+1300,Renault,Kiger,SUV,5.79,2021,5,1326.0,2620.0
+1301,Renault,Kwid,Hatchback,4.24,2021,5,738.0,2620.0
+1302,Renault,Triber,MUV,5.67,2021,5,524.0,2620.0
+1303,Skoda,Karoq,SUV,24.99,2021,5,1.0,716.0
+1304,Skoda,Kodiaq,SUV,34.99,2021,5,,716.0
+1305,Skoda,Octavia,Sedan,26.29,2021,5,102.0,716.0
+1306,Skoda,Rapid,Sedan,11.99,2021,5,603.0,716.0
+1307,Skoda,Superb,Sedan,32.85,2021,5,10.0,716.0
+1308,Tata,Altroz,Hatchback,5.99,2021,5,2896.0,15180.0
+1309,Tata,Harrier,SUV,14.49,2021,5,1360.0,15180.0
+1310,Tata,Nexon,SUV,7.39,2021,5,6439.0,15180.0
+1311,Tata,Safari,MUV,14.99,2021,5,1536.0,15180.0
+1312,Tata,Tiago,Hatchback,5.19,2021,5,2582.0,15180.0
+1313,Tata,Tigor,Hatchback,5.79,2021,5,367.0,15180.0
+1314,Toyota,Camry,Sedan,41.7,2021,5,,707.0
+1315,Toyota,Fortuner,MUV,31.38,2021,5,15.0,707.0
+1316,Toyota,Glanza,Hatchback,7.69,2021,5,298.0,707.0
+1317,Toyota,Innova,MUV,17.3,2021,5,20.0,707.0
+1318,Toyota,Urban Cruiser,SUV,8.87,2021,5,373.0,707.0
+1319,Toyota,Vellfire,Van,89.85,2021,5,1.0,707.0
+1320,Toyota,Yaris,Sedan,9.29,2021,5,,707.0
+1321,Volkswagen,Polo,Hatchback,6.49,2021,5,1107.0,1425.0
+1322,Volkswagen,Tiguan,SUV,11.0,2021,5,,1425.0
+1323,Volkswagen,T-Roc,SUV,21.35,2021,5,149.0,1425.0
+1324,Volkswagen,Vento,Sedan,10.0,2021,5,169.0,1425.0
+1325,Datsun,Go,Hatchback,4.03,2021,6,6.0,167.0
+1326,Datsun,Go Plus,MUV,4.26,2021,6,12.0,167.0
+1327,Datsun,RediGo,Hatchback,3.98,2021,6,149.0,167.0
+1328,Honda,Amaze,Sedan,6.39,2021,6,1487.0,4767.0
+1329,Honda,City,Sedan,11.23,2021,6,2571.0,4767.0
+1330,Honda,Civic,Sedan,17.95,2021,6,,4767.0
+1331,Honda,CRV,MUV,20.0,2021,6,,4767.0
+1332,Honda,Jazz,Hatchback,7.72,2021,6,243.0,4767.0
+1333,Honda,WRV,SUV,8.83,2021,6,466.0,4767.0
+1334,Hyundai,Alcazar,SUV,16.34,2021,6,3103.0,40496.0
+1335,Hyundai,Creta,SUV,10.22,2021,6,9941.0,40496.0
+1336,Hyundai,Elantra,Sedan,17.86,2021,6,29.0,40496.0
+1337,Hyundai,Grand i10,Hatchback,5.0,2021,6,8787.0,40496.0
+1338,Hyundai,i20,Hatchback,4.88,2021,6,6333.0,40496.0
+1339,Hyundai,Kona,Electric,23.0,2021,6,7.0,40496.0
+1340,Hyundai,Santro,Hatchback,3.13,2021,6,2039.0,40496.0
+1341,Hyundai,Tucson,SUV,23.0,2021,6,85.0,40496.0
+1342,Hyundai,Venue,SUV,7.0,2021,6,4865.0,40496.0
+1343,Hyundai,Verna,Sedan,8.0,2021,6,2181.0,40496.0
+1344,Hyundai,"Xcent, Aura",Sedan,6.0,2021,6,3126.0,40496.0
+1345,Jeep,Compass,SUV,17.79,2021,6,789.0,789.0
+1346,Jeep,Wrangler,SUV,56.33,2021,6,,789.0
+1347,Kia,Carnival,Van,25.48,2021,6,503.0,15015.0
+1348,Kia,Seltos,SUV,9.95,2021,6,8549.0,15015.0
+1349,Kia,Sonet,SUV,9.95,2021,6,5963.0,15015.0
+1350,Mahindra,Alturas G4,SUV,28.85,2021,6,16.0,16636.0
+1351,Mahindra,Bolero,SUV,8.99,2021,6,5744.0,16636.0
+1352,Mahindra,KUV100,SUV,6.19,2021,6,1.0,16636.0
+1353,Mahindra,Marazzo,SUV,12.79,2021,6,402.0,16636.0
+1354,Mahindra,Scorpio,SUV,13.18,2021,6,4160.0,16636.0
+1355,Mahindra,Thar,SUV,13.17,2021,6,1065.0,16636.0
+1356,Mahindra,TUV300,SUV,15.0,2021,6,,16636.0
+1357,Mahindra,XUV300,SUV,8.16,2021,6,4615.0,16636.0
+1358,Mahindra,XUV500,SUV,13.0,2021,6,633.0,16636.0
+1359,Maruti Suzuki,Alto,Hatchback,3.25,2021,6,12513.0,124280.0
+1360,Maruti Suzuki,Baleno,Hatchback,6.03,2021,6,14701.0,124280.0
+1361,Maruti Suzuki,Celerio,Hatchback,5.14,2021,6,752.0,124280.0
+1362,Maruti Suzuki,Ciaz,Sedan,8.67,2021,6,602.0,124280.0
+1363,Maruti Suzuki,Dzire,Sedan,6.09,2021,6,12639.0,124280.0
+1364,Maruti Suzuki,Eeco,Van,4.53,2021,6,9218.0,124280.0
+1365,Maruti Suzuki,Ertiga,MUV,8.11,2021,6,9920.0,124280.0
+1366,Maruti Suzuki,Ignis,Hatchback,5.08,2021,6,3583.0,124280.0
+1367,Maruti Suzuki,S-Cross,SUV,8.6,2021,6,1441.0,124280.0
+1368,Maruti Suzuki,S-Presso,SUV,3.85,2021,6,4926.0,124280.0
+1369,Maruti Suzuki,Swift,Hatchback,5.9,2021,6,17727.0,124280.0
+1370,Maruti Suzuki,Vitara Brezza,SUV,7.68,2021,6,12833.0,124280.0
+1371,Maruti Suzuki,WagonR,Hatchback,5.16,2021,6,19447.0,124280.0
+1372,Maruti Suzuki,XL6,MUV,10.01,2021,6,3978.0,124280.0
+1373,MG,Gloster,SUV,30.99,2021,6,306.0,3558.0
+1374,MG,Hector,SUV,13.95,2021,6,3002.0,3558.0
+1375,MG,ZS EV,SUV,21.49,2021,6,250.0,3558.0
+1376,Nissan,Kicks,SUV,9.5,2021,6,84.0,3336.0
+1377,Nissan,Magnite,SUV,5.77,2021,6,3252.0,3336.0
+1378,Renault,Duster,SUV,9.85,2021,6,114.0,6100.0
+1379,Renault,Kiger,SUV,5.79,2021,6,2035.0,6100.0
+1380,Renault,Kwid,Hatchback,4.24,2021,6,2161.0,6100.0
+1381,Renault,Triber,MUV,5.67,2021,6,1790.0,6100.0
+1382,Skoda,Karoq,SUV,24.99,2021,6,1.0,734.0
+1383,Skoda,Kodiaq,SUV,34.99,2021,6,,734.0
+1384,Skoda,Octavia,Sedan,26.29,2021,6,162.0,734.0
+1385,Skoda,Rapid,Sedan,11.99,2021,6,454.0,734.0
+1386,Skoda,Superb,Sedan,32.85,2021,6,117.0,734.0
+1387,Tata,Altroz,Hatchback,5.99,2021,6,6350.0,24111.0
+1388,Tata,Harrier,SUV,14.49,2021,6,2041.0,24111.0
+1389,Tata,Nexon,SUV,7.39,2021,6,8033.0,24111.0
+1390,Tata,Safari,MUV,14.99,2021,6,1730.0,24111.0
+1391,Tata,Tiago,Hatchback,5.19,2021,6,4881.0,24111.0
+1392,Tata,Tigor,Hatchback,5.79,2021,6,1076.0,24111.0
+1393,Toyota,Camry,Sedan,41.7,2021,6,38.0,8798.0
+1394,Toyota,Fortuner,MUV,31.38,2021,6,549.0,8798.0
+1395,Toyota,Glanza,Hatchback,7.69,2021,6,2586.0,8798.0
+1396,Toyota,Innova,MUV,17.3,2021,6,2973.0,8798.0
+1397,Toyota,Urban Cruiser,SUV,8.87,2021,6,2584.0,8798.0
+1398,Toyota,Vellfire,Van,89.85,2021,6,63.0,8798.0
+1399,Toyota,Yaris,Sedan,9.29,2021,6,5.0,8798.0
+1400,Volkswagen,Polo,Hatchback,6.49,2021,6,1303.0,1633.0
+1401,Volkswagen,Tiguan,SUV,11.0,2021,6,,1633.0
+1402,Volkswagen,T-Roc,SUV,21.35,2021,6,152.0,1633.0
+1403,Volkswagen,Vento,Sedan,10.0,2021,6,178.0,1633.0
+1404,Datsun,Go,Hatchback,4.03,2021,7,1.0,51.0
+1405,Datsun,Go Plus,MUV,4.26,2021,7,13.0,51.0
+1406,Datsun,RediGo,Hatchback,3.98,2021,7,37.0,51.0
+1407,Honda,Amaze,Sedan,6.39,2021,7,1134.0,6055.0
+1408,Honda,City,Sedan,11.23,2021,7,3627.0,6055.0
+1409,Honda,Jazz,Hatchback,7.72,2021,7,586.0,6055.0
+1410,Honda,WRV,SUV,8.83,2021,7,708.0,6055.0
+1411,Hyundai,Alcazar,SUV,16.34,2021,7,3001.0,48042.0
+1412,Hyundai,Creta,SUV,10.22,2021,7,13000.0,48042.0
+1413,Hyundai,Elantra,Sedan,17.86,2021,7,15.0,48042.0
+1414,Hyundai,Grand i10,Hatchback,5.0,2021,7,9379.0,48042.0
+1415,Hyundai,i20,Hatchback,4.88,2021,7,6518.0,48042.0
+1416,Hyundai,Kona,Electric,23.0,2021,7,23.0,48042.0
+1417,Hyundai,Santro,Hatchback,3.13,2021,7,1949.0,48042.0
+1418,Hyundai,Tucson,SUV,23.0,2021,7,111.0,48042.0
+1419,Hyundai,Venue,SUV,7.0,2021,7,8185.0,48042.0
+1420,Hyundai,Verna,Sedan,8.0,2021,7,1827.0,48042.0
+1421,Hyundai,"Xcent, Aura",Sedan,6.0,2021,7,4034.0,48042.0
+1422,Jeep,Compass,SUV,17.79,2021,7,909.0,909.0
+1423,Jeep,Wrangler,SUV,56.33,2021,7,,909.0
+1424,Kia,Carnival,Van,25.48,2021,7,358.0,15016.0
+1425,Kia,Seltos,SUV,9.95,2021,7,6983.0,15016.0
+1426,Kia,Sonet,SUV,9.95,2021,7,7675.0,15016.0
+1427,Mahindra,Alturas G4,SUV,28.85,2021,7,44.0,20797.0
+1428,Mahindra,Bolero,SUV,8.99,2021,7,6491.0,20797.0
+1429,Mahindra,KUV100,SUV,6.19,2021,7,7.0,20797.0
+1430,Mahindra,Marazzo,SUV,12.79,2021,7,279.0,20797.0
+1431,Mahindra,Scorpio,SUV,13.18,2021,7,3855.0,20797.0
+1432,Mahindra,Thar,SUV,13.17,2021,7,3203.0,20797.0
+1433,Mahindra,"Verito, Vibe",Sedan,10.0,2021,7,,20797.0
+1434,Mahindra,XUV300,SUV,8.16,2021,7,6027.0,20797.0
+1435,Mahindra,XUV500,SUV,13.0,2021,7,891.0,20797.0
+1436,Mahindra,XUV700,SUV,12.96,2021,7,,20797.0
+1437,Maruti Suzuki,Alto,Hatchback,3.25,2021,7,12867.0,133732.0
+1438,Maruti Suzuki,Baleno,Hatchback,6.03,2021,7,14729.0,133732.0
+1439,Maruti Suzuki,Celerio,Hatchback,5.14,2021,7,2.0,133732.0
+1440,Maruti Suzuki,Ciaz,Sedan,8.67,2021,7,1450.0,133732.0
+1441,Maruti Suzuki,Dzire,Sedan,6.09,2021,7,10470.0,133732.0
+1442,Maruti Suzuki,Eeco,Van,4.53,2021,7,10057.0,133732.0
+1443,Maruti Suzuki,Ertiga,MUV,8.11,2021,7,13434.0,133732.0
+1444,Maruti Suzuki,Ignis,Hatchback,5.08,2021,7,3797.0,133732.0
+1445,Maruti Suzuki,S-Cross,SUV,8.6,2021,7,1972.0,133732.0
+1446,Maruti Suzuki,S-Presso,SUV,3.85,2021,7,6818.0,133732.0
+1447,Maruti Suzuki,Swift,Hatchback,5.9,2021,7,18434.0,133732.0
+1448,Maruti Suzuki,Vitara Brezza,SUV,7.68,2021,7,12676.0,133732.0
+1449,Maruti Suzuki,WagonR,Hatchback,5.16,2021,7,22836.0,133732.0
+1450,Maruti Suzuki,XL6,MUV,10.01,2021,7,4190.0,133732.0
+1451,MG,Astor,SUV,9.98,2021,7,,4225.0
+1452,MG,Gloster,SUV,30.99,2021,7,363.0,4225.0
+1453,MG,Hector,SUV,13.95,2021,7,3565.0,4225.0
+1454,MG,ZS EV,SUV,21.49,2021,7,297.0,4225.0
+1455,Nissan,Kicks,SUV,9.5,2021,7,135.0,4208.0
+1456,Nissan,Magnite,SUV,5.77,2021,7,4073.0,4208.0
+1457,Renault,Duster,SUV,9.85,2021,7,128.0,9787.0
+1458,Renault,Kiger,SUV,5.79,2021,7,3557.0,9787.0
+1459,Renault,Kwid,Hatchback,4.24,2021,7,3287.0,9787.0
+1460,Renault,Triber,MUV,5.67,2021,7,2815.0,9787.0
+1461,Skoda,Karoq,SUV,24.99,2021,7,,3080.0
+1462,Skoda,Kodiaq,SUV,34.99,2021,7,,3080.0
+1463,Skoda,Kushaq,SUV,10.98,2021,7,1822.0,3080.0
+1464,Skoda,Octavia,Sedan,26.29,2021,7,219.0,3080.0
+1465,Skoda,Rapid,Sedan,11.99,2021,7,793.0,3080.0
+1466,Skoda,Superb,Sedan,32.85,2021,7,246.0,3080.0
+1467,Tata,Altroz,Hatchback,5.99,2021,7,6980.0,30184.0
+1468,Tata,Harrier,SUV,14.49,2021,7,2666.0,30184.0
+1469,Tata,Nexon,SUV,7.39,2021,7,10287.0,30184.0
+1470,Tata,Punch,SUV,5.56,2021,7,,30184.0
+1471,Tata,Safari,MUV,14.99,2021,7,1821.0,30184.0
+1472,Tata,Tiago,Hatchback,5.19,2021,7,6794.0,30184.0
+1473,Tata,Tigor,Hatchback,5.79,2021,7,1636.0,30184.0
+1474,Toyota,Camry,Sedan,41.7,2021,7,101.0,13103.0
+1475,Toyota,Fortuner,MUV,31.38,2021,7,1789.0,13103.0
+1476,Toyota,Glanza,Hatchback,7.69,2021,7,2636.0,13103.0
+1477,Toyota,Innova,MUV,17.3,2021,7,6093.0,13103.0
+1478,Toyota,Urban Cruiser,SUV,8.87,2021,7,2448.0,13103.0
+1479,Toyota,Vellfire,Van,89.85,2021,7,31.0,13103.0
+1480,Toyota,Yaris,Sedan,9.29,2021,7,5.0,13103.0
+1481,Volkswagen,Polo,Hatchback,6.49,2021,7,1616.0,1962.0
+1482,Volkswagen,Taigun,SUV,11.0,2021,7,,1962.0
+1483,Volkswagen,Tiguan,SUV,11.0,2021,7,,1962.0
+1484,Volkswagen,T-Roc,SUV,21.35,2021,7,160.0,1962.0
+1485,Volkswagen,Vento,Sedan,10.0,2021,7,186.0,1962.0
+1486,Datsun,Go,Hatchback,4.03,2021,8,3.0,39.0
+1487,Datsun,Go Plus,MUV,4.26,2021,8,4.0,39.0
+1488,Datsun,RediGo,Hatchback,3.98,2021,8,32.0,39.0
+1489,Honda,Amaze,Sedan,6.39,2021,8,6591.0,11177.0
+1490,Honda,City,Sedan,11.23,2021,8,3284.0,11177.0
+1491,Honda,Jazz,Hatchback,7.72,2021,8,630.0,11177.0
+1492,Honda,WRV,SUV,8.83,2021,8,672.0,11177.0
+1493,Hyundai,Alcazar,SUV,16.34,2021,8,3468.0,46866.0
+1494,Hyundai,Creta,SUV,10.22,2021,8,12597.0,46866.0
+1495,Hyundai,Elantra,Sedan,17.86,2021,8,20.0,46866.0
+1496,Hyundai,Grand i10,Hatchback,5.0,2021,8,8023.0,46866.0
+1497,Hyundai,i20,Hatchback,4.88,2021,8,7340.0,46866.0
+1498,Hyundai,Kona,Electric,23.0,2021,8,1.0,46866.0
+1499,Hyundai,Santro,Hatchback,3.13,2021,8,1731.0,46866.0
+1500,Hyundai,Tucson,SUV,23.0,2021,8,117.0,46866.0
+1501,Hyundai,Venue,SUV,7.0,2021,8,8377.0,46866.0
+1502,Hyundai,Verna,Sedan,8.0,2021,8,2098.0,46866.0
+1503,Hyundai,"Xcent, Aura",Sedan,6.0,2021,8,3094.0,46866.0
+1504,Jeep,Compass,SUV,17.79,2021,8,1173.0,1173.0
+1505,Jeep,Wrangler,SUV,56.33,2021,8,,1173.0
+1506,Kia,Carnival,Van,25.48,2021,8,379.0,16750.0
+1507,Kia,Seltos,SUV,9.95,2021,8,8619.0,16750.0
+1508,Kia,Sonet,SUV,9.95,2021,8,7752.0,16750.0
+1509,Mahindra,Alturas G4,SUV,28.85,2021,8,42.0,15786.0
+1510,Mahindra,Bolero,SUV,8.99,2021,8,3218.0,15786.0
+1511,Mahindra,KUV100,SUV,6.19,2021,8,2.0,15786.0
+1512,Mahindra,Marazzo,SUV,12.79,2021,8,181.0,15786.0
+1513,Mahindra,Scorpio,SUV,13.18,2021,8,2606.0,15786.0
+1514,Mahindra,Thar,SUV,13.17,2021,8,3493.0,15786.0
+1515,Mahindra,"Verito, Vibe",Sedan,10.0,2021,8,,15786.0
+1516,Mahindra,XUV300,SUV,8.16,2021,8,5861.0,15786.0
+1517,Mahindra,XUV500,SUV,13.0,2021,8,383.0,15786.0
+1518,Mahindra,XUV700,SUV,12.96,2021,8,,15786.0
+1519,Maruti Suzuki,Alto,Hatchback,3.25,2021,8,13236.0,103187.0
+1520,Maruti Suzuki,Baleno,Hatchback,6.03,2021,8,15646.0,103187.0
+1521,Maruti Suzuki,Celerio,Hatchback,5.14,2021,8,53.0,103187.0
+1522,Maruti Suzuki,Ciaz,Sedan,8.67,2021,8,2146.0,103187.0
+1523,Maruti Suzuki,Dzire,Sedan,6.09,2021,8,5714.0,103187.0
+1524,Maruti Suzuki,Eeco,Van,4.53,2021,8,10666.0,103187.0
+1525,Maruti Suzuki,Ertiga,MUV,8.11,2021,8,6251.0,103187.0
+1526,Maruti Suzuki,Ignis,Hatchback,5.08,2021,8,2053.0,103187.0
+1527,Maruti Suzuki,S-Cross,SUV,8.6,2021,8,2522.0,103187.0
+1528,Maruti Suzuki,S-Presso,SUV,3.85,2021,8,7225.0,103187.0
+1529,Maruti Suzuki,Swift,Hatchback,5.9,2021,8,12483.0,103187.0
+1530,Maruti Suzuki,Vitara Brezza,SUV,7.68,2021,8,12906.0,103187.0
+1531,Maruti Suzuki,WagonR,Hatchback,5.16,2021,8,9628.0,103187.0
+1532,Maruti Suzuki,XL6,MUV,10.01,2021,8,2658.0,103187.0
+1533,MG,Astor,SUV,9.98,2021,8,,3900.0
+1534,MG,Gloster,SUV,30.99,2021,8,351.0,3900.0
+1535,MG,Hector,SUV,13.95,2021,8,3276.0,3900.0
+1536,MG,ZS EV,SUV,21.49,2021,8,273.0,3900.0
+1537,Nissan,Kicks,SUV,9.5,2021,8,186.0,3170.0
+1538,Nissan,Magnite,SUV,5.77,2021,8,2984.0,3170.0
+1539,Renault,Duster,SUV,9.85,2021,8,153.0,9703.0
+1540,Renault,Kiger,SUV,5.79,2021,8,2669.0,9703.0
+1541,Renault,Kwid,Hatchback,4.24,2021,8,2969.0,9703.0
+1542,Renault,Triber,MUV,5.67,2021,8,3912.0,9703.0
+1543,Skoda,Karoq,SUV,24.99,2021,8,,3829.0
+1544,Skoda,Kodiaq,SUV,34.99,2021,8,,3829.0
+1545,Skoda,Kushaq,SUV,10.98,2021,8,2904.0,3829.0
+1546,Skoda,Octavia,Sedan,26.29,2021,8,150.0,3829.0
+1547,Skoda,Rapid,Sedan,11.99,2021,8,595.0,3829.0
+1548,Skoda,Superb,Sedan,32.85,2021,8,180.0,3829.0
+1549,Tata,Altroz,Hatchback,5.99,2021,8,6175.0,28017.0
+1550,Tata,Harrier,SUV,14.49,2021,8,2743.0,28017.0
+1551,Tata,Nexon,SUV,7.39,2021,8,10006.0,28017.0
+1552,Tata,Punch,SUV,5.56,2021,8,,28017.0
+1553,Tata,Safari,MUV,14.99,2021,8,1762.0,28017.0
+1554,Tata,Tiago,Hatchback,5.19,2021,8,5658.0,28017.0
+1555,Tata,Tigor,Hatchback,5.79,2021,8,1673.0,28017.0
+1556,Toyota,Camry,Sedan,41.7,2021,8,87.0,12769.0
+1557,Toyota,Fortuner,MUV,31.38,2021,8,2387.0,12769.0
+1558,Toyota,Glanza,Hatchback,7.69,2021,8,1832.0,12769.0
+1559,Toyota,Innova,MUV,17.3,2021,8,5755.0,12769.0
+1560,Toyota,Urban Cruiser,SUV,8.87,2021,8,2654.0,12769.0
+1561,Toyota,Vellfire,Van,89.85,2021,8,54.0,12769.0
+1562,Toyota,Yaris,Sedan,9.29,2021,8,,12769.0
+1563,Volkswagen,Polo,Hatchback,6.49,2021,8,1306.0,1631.0
+1564,Volkswagen,Taigun,SUV,11.0,2021,8,,1631.0
+1565,Volkswagen,Tiguan,SUV,11.0,2021,8,,1631.0
+1566,Volkswagen,T-Roc,SUV,21.35,2021,8,150.0,1631.0
+1567,Volkswagen,Vento,Sedan,10.0,2021,8,175.0,1631.0
+1568,Datsun,Go,Hatchback,4.03,2021,9,8.0,115.0
+1569,Datsun,Go Plus,MUV,4.26,2021,9,29.0,115.0
+1570,Datsun,RediGo,Hatchback,3.98,2021,9,78.0,115.0
+1571,Honda,Amaze,Sedan,6.39,2021,9,2063.0,6765.0
+1572,Honda,City,Sedan,11.23,2021,9,3348.0,6765.0
+1573,Honda,Jazz,Hatchback,7.72,2021,9,667.0,6765.0
+1574,Honda,WRV,SUV,8.83,2021,9,687.0,6765.0
+1575,Hyundai,Alcazar,SUV,16.34,2021,9,1929.0,33087.0
+1576,Hyundai,Creta,SUV,10.22,2021,9,8193.0,33087.0
+1577,Hyundai,Elantra,Sedan,17.86,2021,9,41.0,33087.0
+1578,Hyundai,Grand i10,Hatchback,5.0,2021,9,4168.0,33087.0
+1579,Hyundai,i20,Hatchback,4.88,2021,9,5153.0,33087.0
+1580,Hyundai,Kona,Electric,23.0,2021,9,1.0,33087.0
+1581,Hyundai,Santro,Hatchback,3.13,2021,9,1798.0,33087.0
+1582,Hyundai,Tucson,SUV,23.0,2021,9,139.0,33087.0
+1583,Hyundai,Venue,SUV,7.0,2021,9,7924.0,33087.0
+1584,Hyundai,Verna,Sedan,8.0,2021,9,879.0,33087.0
+1585,Hyundai,"Xcent, Aura",Sedan,6.0,2021,9,2862.0,33087.0
+1586,Jeep,Compass,SUV,17.79,2021,9,1311.0,1311.0
+1587,Jeep,Wrangler,SUV,56.33,2021,9,,1311.0
+1588,Kia,Carnival,Van,25.48,2021,9,404.0,14441.0
+1589,Kia,Seltos,SUV,9.95,2021,9,9583.0,14441.0
+1590,Kia,Sonet,SUV,9.95,2021,9,4454.0,14441.0
+1591,Mahindra,Alturas G4,SUV,28.85,2021,9,51.0,12863.0
+1592,Mahindra,Bolero,SUV,8.99,2021,9,1755.0,12863.0
+1593,Mahindra,KUV100,SUV,6.19,2021,9,42.0,12863.0
+1594,Mahindra,Marazzo,SUV,12.79,2021,9,70.0,12863.0
+1595,Mahindra,Scorpio,SUV,13.18,2021,9,2588.0,12863.0
+1596,Mahindra,Thar,SUV,13.17,2021,9,3134.0,12863.0
+1597,Mahindra,"Verito, Vibe",Sedan,10.0,2021,9,,12863.0
+1598,Mahindra,XUV300,SUV,8.16,2021,9,3693.0,12863.0
+1599,Mahindra,XUV500,SUV,13.0,2021,9,160.0,12863.0
+1600,Mahindra,XUV700,SUV,12.96,2021,9,1370.0,12863.0
+1601,Maruti Suzuki,Alto,Hatchback,3.25,2021,9,12143.0,59113.0
+1602,Maruti Suzuki,Baleno,Hatchback,6.03,2021,9,4077.0,59113.0
+1603,Maruti Suzuki,Celerio,Hatchback,5.14,2021,9,1.0,59113.0
+1604,Maruti Suzuki,Ciaz,Sedan,8.67,2021,9,981.0,59113.0
+1605,Maruti Suzuki,Dzire,Sedan,6.09,2021,9,2141.0,59113.0
+1606,Maruti Suzuki,Eeco,Van,4.53,2021,9,7844.0,59113.0
+1607,Maruti Suzuki,Ertiga,MUV,8.11,2021,9,11308.0,59113.0
+1608,Maruti Suzuki,Ignis,Hatchback,5.08,2021,9,522.0,59113.0
+1609,Maruti Suzuki,S-Cross,SUV,8.6,2021,9,1529.0,59113.0
+1610,Maruti Suzuki,S-Presso,SUV,3.85,2021,9,2793.0,59113.0
+1611,Maruti Suzuki,Swift,Hatchback,5.9,2021,9,2520.0,59113.0
+1612,Maruti Suzuki,Vitara Brezza,SUV,7.68,2021,9,1874.0,59113.0
+1613,Maruti Suzuki,WagonR,Hatchback,5.16,2021,9,7632.0,59113.0
+1614,Maruti Suzuki,XL6,MUV,10.01,2021,9,3748.0,59113.0
+1615,MG,Astor,SUV,9.98,2021,9,,3241.0
+1616,MG,Gloster,SUV,30.99,2021,9,292.0,3241.0
+1617,MG,Hector,SUV,13.95,2021,9,2722.0,3241.0
+1618,MG,ZS EV,SUV,21.49,2021,9,227.0,3241.0
+1619,Nissan,Kicks,SUV,9.5,2021,9,371.0,2701.0
+1620,Nissan,Magnite,SUV,5.77,2021,9,2330.0,2701.0
+1621,Renault,Duster,SUV,9.85,2021,9,275.0,7326.0
+1622,Renault,Kiger,SUV,5.79,2021,9,2312.0,7326.0
+1623,Renault,Kwid,Hatchback,4.24,2021,9,2710.0,7326.0
+1624,Renault,Triber,MUV,5.67,2021,9,2029.0,7326.0
+1625,Skoda,Karoq,SUV,24.99,2021,9,,3027.0
+1626,Skoda,Kodiaq,SUV,34.99,2021,9,,3027.0
+1627,Skoda,Kushaq,SUV,10.98,2021,9,2158.0,3027.0
+1628,Skoda,Octavia,Sedan,26.29,2021,9,186.0,3027.0
+1629,Skoda,Rapid,Sedan,11.99,2021,9,473.0,3027.0
+1630,Skoda,Superb,Sedan,32.85,2021,9,210.0,3027.0
+1631,Tata,Altroz,Hatchback,5.99,2021,9,5772.0,25729.0
+1632,Tata,Harrier,SUV,14.49,2021,9,2821.0,25729.0
+1633,Tata,Nexon,SUV,7.39,2021,9,9211.0,25729.0
+1634,Tata,Punch,SUV,5.56,2021,9,,25729.0
+1635,Tata,Safari,MUV,14.99,2021,9,1500.0,25729.0
+1636,Tata,Tiago,Hatchback,5.19,2021,9,5121.0,25729.0
+1637,Tata,Tigor,Hatchback,5.79,2021,9,1304.0,25729.0
+1638,Toyota,Camry,Sedan,41.7,2021,9,59.0,9284.0
+1639,Toyota,Fortuner,MUV,31.38,2021,9,1869.0,9284.0
+1640,Toyota,Glanza,Hatchback,7.69,2021,9,1764.0,9284.0
+1641,Toyota,Innova,MUV,17.3,2021,9,4724.0,9284.0
+1642,Toyota,Urban Cruiser,SUV,8.87,2021,9,816.0,9284.0
+1643,Toyota,Vellfire,Van,89.85,2021,9,52.0,9284.0
+1644,Toyota,Yaris,Sedan,9.29,2021,9,,9284.0
+1645,Volkswagen,Polo,Hatchback,6.49,2021,9,799.0,2563.0
+1646,Volkswagen,Taigun,SUV,11.0,2021,9,1461.0,2563.0
+1647,Volkswagen,Tiguan,SUV,11.0,2021,9,,2563.0
+1648,Volkswagen,T-Roc,SUV,21.35,2021,9,142.0,2563.0
+1649,Volkswagen,Vento,Sedan,10.0,2021,9,161.0,2563.0
+1650,Datsun,Go,Hatchback,4.03,2021,10,13.0,294.0
+1651,Datsun,Go Plus,MUV,4.26,2021,10,,294.0
+1652,Datsun,RediGo,Hatchback,3.98,2021,10,281.0,294.0
+1653,Honda,Amaze,Sedan,6.39,2021,10,3009.0,8108.0
+1654,Honda,City,Sedan,11.23,2021,10,3611.0,8108.0
+1655,Honda,Jazz,Hatchback,7.72,2021,10,760.0,8108.0
+1656,Honda,WRV,SUV,8.83,2021,10,728.0,8108.0
+1657,Hyundai,Alcazar,SUV,16.34,2021,10,1392.0,37021.0
+1658,Hyundai,Creta,SUV,10.22,2021,10,6455.0,37021.0
+1659,Hyundai,Elantra,Sedan,17.86,2021,10,11.0,37021.0
+1660,Hyundai,Grand i10,Hatchback,5.0,2021,10,6042.0,37021.0
+1661,Hyundai,i20,Hatchback,4.88,2021,10,4414.0,37021.0
+1662,Hyundai,Kona,Electric,23.0,2021,10,18.0,37021.0
+1663,Hyundai,Santro,Hatchback,3.13,2021,10,2877.0,37021.0
+1664,Hyundai,Tucson,SUV,23.0,2021,10,119.0,37021.0
+1665,Hyundai,Venue,SUV,7.0,2021,10,10554.0,37021.0
+1666,Hyundai,Verna,Sedan,8.0,2021,10,2438.0,37021.0
+1667,Hyundai,"Xcent, Aura",Sedan,6.0,2021,10,2701.0,37021.0
+1668,Jeep,Compass,SUV,17.79,2021,10,1324.0,1324.0
+1669,Jeep,Wrangler,SUV,56.33,2021,10,,1324.0
+1670,Kia,Carnival,Van,25.48,2021,10,400.0,16331.0
+1671,Kia,Seltos,SUV,9.95,2021,10,10488.0,16331.0
+1672,Kia,Sonet,SUV,9.95,2021,10,5443.0,16331.0
+1673,Mahindra,Alturas G4,SUV,28.85,2021,10,40.0,20034.0
+1674,Mahindra,Bolero,SUV,8.99,2021,10,6375.0,20034.0
+1675,Mahindra,KUV100,SUV,6.19,2021,10,1.0,20034.0
+1676,Mahindra,Marazzo,SUV,12.79,2021,10,12.0,20034.0
+1677,Mahindra,Scorpio,SUV,13.18,2021,10,3304.0,20034.0
+1678,Mahindra,Thar,SUV,13.17,2021,10,2692.0,20034.0
+1679,Mahindra,"Verito, Vibe",Sedan,10.0,2021,10,,20034.0
+1680,Mahindra,XUV300,SUV,8.16,2021,10,4203.0,20034.0
+1681,Mahindra,XUV500,SUV,13.0,2021,10,,20034.0
+1682,Mahindra,XUV700,SUV,12.96,2021,10,3407.0,20034.0
+1683,Maruti Suzuki,Alto,Hatchback,3.25,2021,10,17389.0,108991.0
+1684,Maruti Suzuki,Baleno,Hatchback,6.03,2021,10,15573.0,108991.0
+1685,Maruti Suzuki,Celerio,Hatchback,5.14,2021,10,1999.0,108991.0
+1686,Maruti Suzuki,Ciaz,Sedan,8.67,2021,10,1069.0,108991.0
+1687,Maruti Suzuki,Dzire,Sedan,6.09,2021,10,8077.0,108991.0
+1688,Maruti Suzuki,Eeco,Van,4.53,2021,10,10320.0,108991.0
+1689,Maruti Suzuki,Ertiga,MUV,8.11,2021,10,12923.0,108991.0
+1690,Maruti Suzuki,Ignis,Hatchback,5.08,2021,10,1526.0,108991.0
+1691,Maruti Suzuki,S-Cross,SUV,8.6,2021,10,1524.0,108991.0
+1692,Maruti Suzuki,S-Presso,SUV,3.85,2021,10,4442.0,108991.0
+1693,Maruti Suzuki,Swift,Hatchback,5.9,2021,10,9180.0,108991.0
+1694,Maruti Suzuki,Vitara Brezza,SUV,7.68,2021,10,8032.0,108991.0
+1695,Maruti Suzuki,WagonR,Hatchback,5.16,2021,10,12335.0,108991.0
+1696,Maruti Suzuki,XL6,MUV,10.01,2021,10,4602.0,108991.0
+1697,MG,Astor,SUV,9.98,2021,10,,2863.0
+1698,MG,Gloster,SUV,30.99,2021,10,260.0,2863.0
+1699,MG,Hector,SUV,13.95,2021,10,2478.0,2863.0
+1700,MG,ZS EV,SUV,21.49,2021,10,125.0,2863.0
+1701,Nissan,Kicks,SUV,9.5,2021,10,230.0,3619.0
+1702,Nissan,Magnite,SUV,5.77,2021,10,3389.0,3619.0
+1703,Renault,Duster,SUV,9.85,2021,10,786.0,8910.0
+1704,Renault,Kiger,SUV,5.79,2021,10,2643.0,8910.0
+1705,Renault,Kwid,Hatchback,4.24,2021,10,2723.0,8910.0
+1706,Renault,Triber,MUV,5.67,2021,10,2758.0,8910.0
+1707,Skoda,Karoq,SUV,24.99,2021,10,17.0,3065.0
+1708,Skoda,Kodiaq,SUV,34.99,2021,10,,3065.0
+1709,Skoda,Kushaq,SUV,10.98,2021,10,2413.0,3065.0
+1710,Skoda,Octavia,Sedan,26.29,2021,10,219.0,3065.0
+1711,Skoda,Rapid,Sedan,11.99,2021,10,165.0,3065.0
+1712,Skoda,Superb,Sedan,32.85,2021,10,251.0,3065.0
+1713,Tata,Altroz,Hatchback,5.99,2021,10,5128.0,33926.0
+1714,Tata,Harrier,SUV,14.49,2021,10,3097.0,33926.0
+1715,Tata,Nexon,SUV,7.39,2021,10,10096.0,33926.0
+1716,Tata,Punch,SUV,5.56,2021,10,8453.0,33926.0
+1717,Tata,Safari,MUV,14.99,2021,10,1735.0,33926.0
+1718,Tata,Tiago,Hatchback,5.19,2021,10,4040.0,33926.0
+1719,Tata,Tigor,Hatchback,5.79,2021,10,1377.0,33926.0
+1720,Toyota,Camry,Sedan,41.7,2021,10,72.0,12440.0
+1721,Toyota,Fortuner,MUV,31.38,2021,10,1893.0,12440.0
+1722,Toyota,Glanza,Hatchback,7.69,2021,10,2202.0,12440.0
+1723,Toyota,Innova,MUV,17.3,2021,10,6096.0,12440.0
+1724,Toyota,Urban Cruiser,SUV,8.87,2021,10,2100.0,12440.0
+1725,Toyota,Vellfire,Van,89.85,2021,10,77.0,12440.0
+1726,Toyota,Yaris,Sedan,9.29,2021,10,,12440.0
+1727,Volkswagen,Polo,Hatchback,6.49,2021,10,319.0,3077.0
+1728,Volkswagen,Taigun,SUV,11.0,2021,10,2551.0,3077.0
+1729,Volkswagen,Tiguan,SUV,11.0,2021,10,,3077.0
+1730,Volkswagen,T-Roc,SUV,21.35,2021,10,80.0,3077.0
+1731,Volkswagen,Vento,Sedan,10.0,2021,10,127.0,3077.0
+1732,Datsun,Go,Hatchback,4.03,2021,11,,259.0
+1733,Datsun,Go Plus,MUV,4.26,2021,11,,259.0
+1734,Datsun,RediGo,Hatchback,3.98,2021,11,259.0,259.0
+1735,Honda,Amaze,Sedan,6.39,2021,11,2344.0,5457.0
+1736,Honda,City,Sedan,11.23,2021,11,2666.0,5457.0
+1737,Honda,Jazz,Hatchback,7.72,2021,11,327.0,5457.0
+1738,Honda,WRV,SUV,8.83,2021,11,120.0,5457.0
+1739,Hyundai,Alcazar,SUV,16.34,2021,11,2453.0,37001.0
+1740,Hyundai,Creta,SUV,10.22,2021,11,10300.0,37001.0
+1741,Hyundai,Elantra,Sedan,17.86,2021,11,,37001.0
+1742,Hyundai,Grand i10,Hatchback,5.0,2021,11,5466.0,37001.0
+1743,Hyundai,i20,Hatchback,4.88,2021,11,4391.0,37001.0
+1744,Hyundai,Kona,Electric,23.0,2021,11,,37001.0
+1745,Hyundai,Santro,Hatchback,3.13,2021,11,2141.0,37001.0
+1746,Hyundai,Tucson,SUV,23.0,2021,11,108.0,37001.0
+1747,Hyundai,Venue,SUV,7.0,2021,11,7932.0,37001.0
+1748,Hyundai,Verna,Sedan,8.0,2021,11,1648.0,37001.0
+1749,Hyundai,"Xcent, Aura",Sedan,6.0,2021,11,2562.0,37001.0
+1750,Jeep,Compass,SUV,17.79,2021,11,1052.0,1052.0
+1751,Jeep,Wrangler,SUV,56.33,2021,11,,1052.0
+1752,Kia,Carnival,Van,25.48,2021,11,636.0,14214.0
+1753,Kia,Seltos,SUV,9.95,2021,11,8859.0,14214.0
+1754,Kia,Sonet,SUV,9.95,2021,11,4719.0,14214.0
+1755,Mahindra,Alturas G4,SUV,28.85,2021,11,80.0,19400.0
+1756,Mahindra,Bolero,SUV,8.99,2021,11,5442.0,19400.0
+1757,Mahindra,KUV100,SUV,6.19,2021,11,,19400.0
+1758,Mahindra,Marazzo,SUV,12.79,2021,11,99.0,19400.0
+1759,Mahindra,Scorpio,SUV,13.18,2021,11,3370.0,19400.0
+1760,Mahindra,Thar,SUV,13.17,2021,11,3181.0,19400.0
+1761,Mahindra,"Verito, Vibe",Sedan,10.0,2021,11,16.0,19400.0
+1762,Mahindra,XUV300,SUV,8.16,2021,11,4005.0,19400.0
+1763,Mahindra,XUV500,SUV,13.0,2021,11,,19400.0
+1764,Mahindra,XUV700,SUV,12.96,2021,11,3207.0,19400.0
+1765,Maruti Suzuki,Alto,Hatchback,3.25,2021,11,13812.0,109722.0
+1766,Maruti Suzuki,Baleno,Hatchback,6.03,2021,11,9931.0,109722.0
+1767,Maruti Suzuki,Celerio,Hatchback,5.14,2021,11,5968.0,109722.0
+1768,Maruti Suzuki,Ciaz,Sedan,8.67,2021,11,1089.0,109722.0
+1769,Maruti Suzuki,Dzire,Sedan,6.09,2021,11,8196.0,109722.0
+1770,Maruti Suzuki,Eeco,Van,4.53,2021,11,9571.0,109722.0
+1771,Maruti Suzuki,Ertiga,MUV,8.11,2021,11,8752.0,109722.0
+1772,Maruti Suzuki,Ignis,Hatchback,5.08,2021,11,1499.0,109722.0
+1773,Maruti Suzuki,S-Cross,SUV,8.6,2021,11,1782.0,109722.0
+1774,Maruti Suzuki,S-Presso,SUV,3.85,2021,11,3661.0,109722.0
+1775,Maruti Suzuki,Swift,Hatchback,5.9,2021,11,14568.0,109722.0
+1776,Maruti Suzuki,Vitara Brezza,SUV,7.68,2021,11,10760.0,109722.0
+1777,Maruti Suzuki,WagonR,Hatchback,5.16,2021,11,16853.0,109722.0
+1778,Maruti Suzuki,XL6,MUV,10.01,2021,11,3280.0,109722.0
+1779,MG,Astor,SUV,9.98,2021,11,1018.0,2481.0
+1780,MG,Gloster,SUV,30.99,2021,11,102.0,2481.0
+1781,MG,Hector,SUV,13.95,2021,11,1210.0,2481.0
+1782,MG,ZS EV,SUV,21.49,2021,11,151.0,2481.0
+1783,Nissan,Kicks,SUV,9.5,2021,11,100.0,2392.0
+1784,Nissan,Magnite,SUV,5.77,2021,11,2292.0,2392.0
+1785,Renault,Duster,SUV,9.85,2021,11,221.0,5052.0
+1786,Renault,Kiger,SUV,5.79,2021,11,2062.0,5052.0
+1787,Renault,Kwid,Hatchback,4.24,2021,11,926.0,5052.0
+1788,Renault,Triber,MUV,5.67,2021,11,1843.0,5052.0
+1789,Skoda,Karoq,SUV,24.99,2021,11,,2196.0
+1790,Skoda,Kodiaq,SUV,34.99,2021,11,,2196.0
+1791,Skoda,Kushaq,SUV,10.98,2021,11,1876.0,2196.0
+1792,Skoda,Octavia,Sedan,26.29,2021,11,194.0,2196.0
+1793,Skoda,Rapid,Sedan,11.99,2021,11,22.0,2196.0
+1794,Skoda,Superb,Sedan,32.85,2021,11,104.0,2196.0
+1795,Tata,Altroz,Hatchback,5.99,2021,11,3025.0,29780.0
+1796,Tata,Harrier,SUV,14.49,2021,11,2607.0,29780.0
+1797,Tata,Nexon,SUV,7.39,2021,11,9831.0,29780.0
+1798,Tata,Punch,SUV,5.56,2021,11,6110.0,29780.0
+1799,Tata,Safari,MUV,14.99,2021,11,1424.0,29780.0
+1800,Tata,Tiago,Hatchback,5.19,2021,11,4998.0,29780.0
+1801,Tata,Tigor,Hatchback,5.79,2021,11,1785.0,29780.0
+1802,Toyota,Camry,Sedan,41.7,2021,11,51.0,13002.0
+1803,Toyota,Fortuner,MUV,31.38,2021,11,1844.0,13002.0
+1804,Toyota,Glanza,Hatchback,7.69,2021,11,1904.0,13002.0
+1805,Toyota,Innova,MUV,17.3,2021,11,6300.0,13002.0
+1806,Toyota,Urban Cruiser,SUV,8.87,2021,11,2850.0,13002.0
+1807,Toyota,Vellfire,Van,89.85,2021,11,53.0,13002.0
+1808,Toyota,Yaris,Sedan,9.29,2021,11,,13002.0
+1809,Volkswagen,Polo,Hatchback,6.49,2021,11,197.0,3154.0
+1810,Volkswagen,Taigun,SUV,11.0,2021,11,2849.0,3154.0
+1811,Volkswagen,Tiguan,SUV,11.0,2021,11,,3154.0
+1812,Volkswagen,T-Roc,SUV,21.35,2021,11,1.0,3154.0
+1813,Volkswagen,Vento,Sedan,10.0,2021,11,107.0,3154.0
+1814,Datsun,Go,Hatchback,4.03,2021,12,,227.0
+1815,Datsun,Go Plus,MUV,4.26,2021,12,,227.0
+1816,Datsun,RediGo,Hatchback,3.98,2021,12,227.0,227.0
+1817,Honda,Amaze,Sedan,6.39,2021,12,3659.0,7973.0
+1818,Honda,City,Sedan,11.23,2021,12,3743.0,7973.0
+1819,Honda,Jazz,Hatchback,7.72,2021,12,486.0,7973.0
+1820,Honda,WRV,SUV,8.83,2021,12,85.0,7973.0
+1821,Hyundai,Alcazar,SUV,16.34,2021,12,1002.0,32312.0
+1822,Hyundai,Creta,SUV,10.22,2021,12,7609.0,32312.0
+1823,Hyundai,Elantra,Sedan,17.86,2021,12,,32312.0
+1824,Hyundai,Grand i10,Hatchback,5.0,2021,12,6151.0,32312.0
+1825,Hyundai,i20,Hatchback,4.88,2021,12,3150.0,32312.0
+1826,Hyundai,Kona,Electric,23.0,2021,12,10.0,32312.0
+1827,Hyundai,Santro,Hatchback,3.13,2021,12,1298.0,32312.0
+1828,Hyundai,Tucson,SUV,23.0,2021,12,35.0,32312.0
+1829,Hyundai,Venue,SUV,7.0,2021,12,10360.0,32312.0
+1830,Hyundai,Verna,Sedan,8.0,2021,12,982.0,32312.0
+1831,Hyundai,"Xcent, Aura",Sedan,6.0,2021,12,1715.0,32312.0
+1832,Jeep,Compass,SUV,17.79,2021,12,916.0,916.0
+1833,Jeep,Wrangler,SUV,56.33,2021,12,,916.0
+1834,Kia,Carnival,Van,25.48,2021,12,207.0,7797.0
+1835,Kia,Seltos,SUV,9.95,2021,12,4012.0,7797.0
+1836,Kia,Sonet,SUV,9.95,2021,12,3578.0,7797.0
+1837,Mahindra,Alturas G4,SUV,28.85,2021,12,18.0,17476.0
+1838,Mahindra,Bolero,SUV,8.99,2021,12,5314.0,17476.0
+1839,Mahindra,KUV100,SUV,6.19,2021,12,,17476.0
+1840,Mahindra,Marazzo,SUV,12.79,2021,12,2.0,17476.0
+1841,Mahindra,Scorpio,SUV,13.18,2021,12,1757.0,17476.0
+1842,Mahindra,Thar,SUV,13.17,2021,12,2138.0,17476.0
+1843,Mahindra,"Verito, Vibe",Sedan,10.0,2021,12,7.0,17476.0
+1844,Mahindra,XUV300,SUV,8.16,2021,12,4260.0,17476.0
+1845,Mahindra,XUV500,SUV,13.0,2021,12,,17476.0
+1846,Mahindra,XUV700,SUV,12.96,2021,12,3980.0,17476.0
+1847,Maruti Suzuki,Alto,Hatchback,3.25,2021,12,11170.0,123016.0
+1848,Maruti Suzuki,Baleno,Hatchback,6.03,2021,12,14458.0,123016.0
+1849,Maruti Suzuki,Celerio,Hatchback,5.14,2021,12,5656.0,123016.0
+1850,Maruti Suzuki,Ciaz,Sedan,8.67,2021,12,1204.0,123016.0
+1851,Maruti Suzuki,Dzire,Sedan,6.09,2021,12,10633.0,123016.0
+1852,Maruti Suzuki,Eeco,Van,4.53,2021,12,9165.0,123016.0
+1853,Maruti Suzuki,Ertiga,MUV,8.11,2021,12,11840.0,123016.0
+1854,Maruti Suzuki,Ignis,Hatchback,5.08,2021,12,3209.0,123016.0
+1855,Maruti Suzuki,S-Cross,SUV,8.6,2021,12,1521.0,123016.0
+1856,Maruti Suzuki,S-Presso,SUV,3.85,2021,12,5150.0,123016.0
+1857,Maruti Suzuki,Swift,Hatchback,5.9,2021,12,15661.0,123016.0
+1858,Maruti Suzuki,Vitara Brezza,SUV,7.68,2021,12,9531.0,123016.0
+1859,Maruti Suzuki,WagonR,Hatchback,5.16,2021,12,19728.0,123016.0
+1860,Maruti Suzuki,XL6,MUV,10.01,2021,12,4090.0,123016.0
+1861,MG,Astor,SUV,9.98,2021,12,1125.0,2550.0
+1862,MG,Gloster,SUV,30.99,2021,12,108.0,2550.0
+1863,MG,Hector,SUV,13.95,2021,12,1215.0,2550.0
+1864,MG,ZS EV,SUV,21.49,2021,12,102.0,2550.0
+1865,Nissan,Kicks,SUV,9.5,2021,12,130.0,2783.0
+1866,Nissan,Magnite,SUV,5.77,2021,12,2653.0,2783.0
+1867,Renault,Duster,SUV,9.85,2021,12,56.0,6130.0
+1868,Renault,Kiger,SUV,5.79,2021,12,2117.0,6130.0
+1869,Renault,Kwid,Hatchback,4.24,2021,12,1056.0,6130.0
+1870,Renault,Triber,MUV,5.67,2021,12,2901.0,6130.0
+1871,Skoda,Karoq,SUV,24.99,2021,12,,3233.0
+1872,Skoda,Kodiaq,SUV,34.99,2021,12,55.0,3233.0
+1873,Skoda,Kushaq,SUV,10.98,2021,12,2840.0,3233.0
+1874,Skoda,Octavia,Sedan,26.29,2021,12,164.0,3233.0
+1875,Skoda,Rapid,Sedan,11.99,2021,12,158.0,3233.0
+1876,Skoda,Superb,Sedan,32.85,2021,12,16.0,3233.0
+1877,Tata,Altroz,Hatchback,5.99,2021,12,5009.0,35300.0
+1878,Tata,Harrier,SUV,14.49,2021,12,2234.0,35300.0
+1879,Tata,Nexon,SUV,7.39,2021,12,12899.0,35300.0
+1880,Tata,Punch,SUV,5.56,2021,12,8008.0,35300.0
+1881,Tata,Safari,MUV,14.99,2021,12,1481.0,35300.0
+1882,Tata,Tiago,Hatchback,5.19,2021,12,3675.0,35300.0
+1883,Tata,Tigor,Hatchback,5.79,2021,12,1994.0,35300.0
+1884,Toyota,Camry,Sedan,41.7,2021,12,1.0,10833.0
+1885,Toyota,Fortuner,MUV,31.38,2021,12,1827.0,10833.0
+1886,Toyota,Glanza,Hatchback,7.69,2021,12,2634.0,10833.0
+1887,Toyota,Innova,MUV,17.3,2021,12,3989.0,10833.0
+1888,Toyota,Urban Cruiser,SUV,8.87,2021,12,2359.0,10833.0
+1889,Toyota,Vellfire,Van,89.85,2021,12,23.0,10833.0
+1890,Toyota,Yaris,Sedan,9.29,2021,12,,10833.0
+1891,Volkswagen,Polo,Hatchback,6.49,2021,12,762.0,3700.0
+1892,Volkswagen,Taigun,SUV,11.0,2021,12,2828.0,3700.0
+1893,Volkswagen,Tiguan,SUV,11.0,2021,12,40.0,3700.0
+1894,Volkswagen,T-Roc,SUV,21.35,2021,12,,3700.0
+1895,Volkswagen,Vento,Sedan,10.0,2021,12,70.0,3700.0
